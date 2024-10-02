@@ -15,5 +15,8 @@ export default defineNuxtConfig({
     ],
 
     plugins: [
-        '~/plugins/pinia.ts',],
+        '~/plugins/pinia.ts',
+        '~/plugins/pixi.js.ts',
+    ],
+
 })
