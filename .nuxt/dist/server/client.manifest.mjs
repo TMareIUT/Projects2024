@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/perri/OneDrive/Bureau/ValorantPlaybook/playbook-valorant/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"

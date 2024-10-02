@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "rolename": "initiator",
+    "icon": "/_nuxt/static/imgs/roles/initiator-icon.png"
+  },
+  {
+    "id": 2,
+    "rolename": "duelist",
+    "icon": "/_nuxt/static/imgs/roles/duelist-icon.png"
+  },
+  {
+      "id": 3,
+      "rolename": "sentinel",
+      "icon": "/_nuxt/static/imgs/roles/sentinel-icon.png"
+  },
+  {
+      "id": 4,
+      "rolename": "controller",
+      "icon": "/_nuxt/static/imgs/roles/controller-icon.png"
+  }
+]
