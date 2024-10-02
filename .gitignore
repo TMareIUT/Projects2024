@@ -3,3 +3,7 @@ node_modules/
 
 # Ignorer le fichier package-lock.json
 package-lock.json
+
+# Ignorer les fichier nuxt
+.nuxt/
+.dist/

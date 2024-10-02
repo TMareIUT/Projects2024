@@ -6,7 +6,6 @@ export default defineNuxtConfig({
     devtools: { enabled: true },
 
     modules: [
-        'nuxt3-leaflet',
         '@pinia/nuxt',
     ],
 
@@ -16,7 +15,7 @@ export default defineNuxtConfig({
 
     plugins: [
         '~/plugins/pinia.ts',
-        '~/plugins/pixi.js.ts',
+        '~/plugins/pixi.ts',
     ],
 
 })

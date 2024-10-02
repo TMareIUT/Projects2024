@@ -7,12 +7,12 @@
     "module": true,
     "resourceType": "script"
   },
-  "C:/Users/perri/OneDrive/Bureau/ValorantPlaybook/playbook-valorant/node_modules/nuxt/dist/app/entry.js": {
+  "C:/Users/perri/OneDrive/Documents/WebProjects/2048/node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
     "isEntry": true,
-    "file": "C:/Users/perri/OneDrive/Bureau/ValorantPlaybook/playbook-valorant/node_modules/nuxt/dist/app/entry.js"
+    "file": "C:/Users/perri/OneDrive/Documents/WebProjects/2048/node_modules/nuxt/dist/app/entry.js"
   }
 }
