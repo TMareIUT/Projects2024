@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\soari\\OneDrive\\Bureau\\PUISSANCE4JEU\\Puissance 4\\Puissance 4.csproj",
+      "projectUniqueName": "C:\\Users\\soari\\OneDrive\\Bureau\\ProjetDev2024\\PUISSANCE4JEU\\Puissance 4\\Puissance 4.csproj",
       "projectName": "Puissance 4",
-      "projectPath": "C:\\Users\\soari\\OneDrive\\Bureau\\PUISSANCE4JEU\\Puissance 4\\Puissance 4.csproj",
+      "projectPath": "C:\\Users\\soari\\OneDrive\\Bureau\\ProjetDev2024\\PUISSANCE4JEU\\Puissance 4\\Puissance 4.csproj",
       "packagesPath": "C:\\Users\\soari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\soari\\OneDrive\\Bureau\\PUISSANCE4JEU\\Puissance 4\\obj\\",
+      "outputPath": "C:\\Users\\soari\\OneDrive\\Bureau\\ProjetDev2024\\PUISSANCE4JEU\\Puissance 4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\soari\\OneDrive\\Bureau\\PUISSANCE4JEU\\BibliothèquePuissance4\\BibliothèquePuissance4.csproj": {
-              "projectPath": "C:\\Users\\soari\\OneDrive\\Bureau\\PUISSANCE4JEU\\BibliothèquePuissance4\\BibliothèquePuissance4.csproj"
+            "C:\\Users\\soari\\OneDrive\\Bureau\\ProjetDev2024\\PUISSANCE4JEU\\BibliothèquePuissance4\\BibliothèquePuissance4.csproj": {
+              "projectPath": "C:\\Users\\soari\\OneDrive\\Bureau\\ProjetDev2024\\PUISSANCE4JEU\\BibliothèquePuissance4\\BibliothèquePuissance4.csproj"
             }
           }
         }
