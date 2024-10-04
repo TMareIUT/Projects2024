@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n4c7kLED+HGMLVleSPwIiq/aS2wPAlfO0ofrajNytW9ELAA04MsmVuSgbgb3ikkSBkX6JSEcuCxG91RIhYgVGA==",
+  "dgSpecHash": "ryY1qZT4y4ND6i3HRz2lk0P7JqehSyzTmMEPeqgoVzSHxurm8I4lP77pXXUiMy1fzRY+9wWmwnwMvrvgP2+KNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\soari\\OneDrive\\Bureau\\ProjetDev2024\\PUISSANCE4JEU\\TestPuissance4\\TestPuissance4.csproj",
+  "projectFilePath": "C:\\Users\\soari\\OneDrive\\Bureau\\Projet2024\\PUISSANCE4JEU\\TestPuissance4\\TestPuissance4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\soari\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\soari\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
