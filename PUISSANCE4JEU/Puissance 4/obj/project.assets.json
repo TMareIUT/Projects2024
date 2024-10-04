@@ -1,0 +1,99 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "BibliothèquePuissance4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BibliothèquePuissance4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BibliothèquePuissance4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliothèquePuissance4/1.0.0": {
+      "type": "project",
+      "path": "../BibliothèquePuissance4/BibliothèquePuissance4.csproj",
+      "msbuildProject": "../BibliothèquePuissance4/BibliothèquePuissance4.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "BibliothèquePuissance4 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\soari\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\soari\\OneDrive\\Bureau\\PUISSANCE4JEU\\Puissance 4\\Puissance 4.csproj",
+      "projectName": "Puissance 4",
+      "projectPath": "C:\\Users\\soari\\OneDrive\\Bureau\\PUISSANCE4JEU\\Puissance 4\\Puissance 4.csproj",
+      "packagesPath": "C:\\Users\\soari\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\soari\\OneDrive\\Bureau\\PUISSANCE4JEU\\Puissance 4\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\soari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\soari\\OneDrive\\Bureau\\PUISSANCE4JEU\\BibliothèquePuissance4\\BibliothèquePuissance4.csproj": {
+              "projectPath": "C:\\Users\\soari\\OneDrive\\Bureau\\PUISSANCE4JEU\\BibliothèquePuissance4\\BibliothèquePuissance4.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

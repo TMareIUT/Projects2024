@@ -1,0 +1,174 @@
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.AssemblyReference.cache
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.Accueil.resources
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.GenerateResource.cache
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.AssemblyInfoInputs.cache
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.AssemblyInfo.cs
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.CoreCompileInputs.cache
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.exe
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.deps.json
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.runtimeconfig.json
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.dll
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.pdb
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.dll
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\obj\Debug\net6.0-windows\refint\Puissance 4.dll
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.pdb
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.genruntimeconfig.cache
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\obj\Debug\net6.0-windows\ref\Puissance 4.dll
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.page_param_JVIA.resources
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance 4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.page_param_JVJ.resources
+C:\Bureau\COURS\SAE2.01(puissance4)\puissance 4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.Partie_JVJ.resources
+C:\Bureau\COURS\SAE2.01(puissance4)\puissance 4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.Properties.Resources.resources
+C:\Bureau\COURS\SAE2.01(puissance4)\puissance 4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.ResultatJVJ.resources
+C:\Bureau\COURS\SAE2.01(puissance4)\puissance 4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.Partie_JVIA.resources
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.exe
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.deps.json
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.runtimeconfig.json
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.dll
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.pdb
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.AssemblyReference.cache
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.Properties.Resources.resources
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.GenerateResource.cache
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.AssemblyInfoInputs.cache
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.AssemblyInfo.cs
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.CoreCompileInputs.cache
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.dll
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\refint\Puissance 4.dll
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.pdb
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.genruntimeconfig.cache
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\ref\Puissance 4.dll
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.AssemblyReference.cache
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.Accueil.resources
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.page_param_JVIA.resources
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.page_param_JVJ.resources
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.Properties.Resources.resources
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.ResultatJVJ.resources
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.GenerateResource.cache
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.AssemblyInfoInputs.cache
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.AssemblyInfo.cs
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.CoreCompileInputs.cache
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.dll
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\refint\Puissance 4.dll
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.pdb
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.exe
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.deps.json
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.runtimeconfig.json
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.dll
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.pdb
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\BibliothèquePuissance4.dll
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\BibliothèquePuissance4.pdb
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.CopyComplete
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.genruntimeconfig.cache
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\ref\Puissance 4.dll
+6fcff90acaac19dfd2b1b2f23b9f32b66a3d1a4b
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\BibliothèquePuissance4.dll
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\BibliothèquePuissance4.pdb
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.CopyComplete
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.exe
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.deps.json
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.runtimeconfig.json
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.dll
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.pdb
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\BibliothèquePuissance4.dll
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\bin\Debug\net6.0-windows\BibliothèquePuissance4.pdb
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.AssemblyReference.cache
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.Properties.Resources.resources
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.GenerateResource.cache
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.AssemblyInfoInputs.cache
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.AssemblyInfo.cs
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.CoreCompileInputs.cache
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.CopyComplete
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.dll
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\refint\Puissance 4.dll
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.pdb
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.genruntimeconfig.cache
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\ref\Puissance 4.dll
+C:\Users\clair\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.PagePartie.resources
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmAccueil.resources
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmPagePartie.resources
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmParamJVIA.resources
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmParamJVJ.resources
+C:\Bureau\COURS\SAE2.01(puissance4)\Puissance4\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmResultat.resources
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmAccueil.resources
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmPagePartie.resources
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmParamJVIA.resources
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmParamJVJ.resources
+C:\Users\Claire\Documents\SAE 2.2\GroupeC2_SAE_PUISSANCE4\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmResultat.resources
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.exe
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.deps.json
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.runtimeconfig.json
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.dll
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.pdb
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\bin\Debug\net6.0-windows\BibliothèquePuissance4.dll
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\bin\Debug\net6.0-windows\BibliothèquePuissance4.pdb
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.AssemblyReference.cache
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmAccueil.resources
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmPagePartie.resources
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmParamJVIA.resources
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmParamJVJ.resources
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.Properties.Resources.resources
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmResultat.resources
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.GenerateResource.cache
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.AssemblyInfoInputs.cache
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.AssemblyInfo.cs
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.CoreCompileInputs.cache
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.CopyComplete
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.dll
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\refint\Puissance 4.dll
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.pdb
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.genruntimeconfig.cache
+C:\Users\noasa\OneDrive\Bureau\groupeC\Puissance 4\obj\Debug\net6.0-windows\ref\Puissance 4.dll
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.exe
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.deps.json
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.runtimeconfig.json
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.dll
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.pdb
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\BibliothèquePuissance4.dll
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\BibliothèquePuissance4.pdb
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.AssemblyReference.cache
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmAccueil.resources
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmPagePartie.resources
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmParamJVIA.resources
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmParamJVJ.resources
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.Properties.Resources.resources
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmResultat.resources
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.GenerateResource.cache
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.AssemblyInfoInputs.cache
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.AssemblyInfo.cs
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.CoreCompileInputs.cache
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.CopyComplete
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.dll
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\refint\Puissance 4.dll
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.pdb
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.genruntimeconfig.cache
+C:\Users\soari\Desktop\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\ref\Puissance 4.dll
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.exe
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.deps.json
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.runtimeconfig.json
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.dll
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.pdb
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\BibliothèquePuissance4.dll
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\BibliothèquePuissance4.pdb
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.AssemblyReference.cache
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmAccueil.resources
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmPagePartie.resources
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmParamJVIA.resources
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmParamJVJ.resources
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.Properties.Resources.resources
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmResultat.resources
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.GenerateResource.cache
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.AssemblyInfoInputs.cache
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.AssemblyInfo.cs
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.CoreCompileInputs.cache
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.CopyComplete
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.dll
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\refint\Puissance 4.dll
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.pdb
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.genruntimeconfig.cache
+C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\ref\Puissance 4.dll
