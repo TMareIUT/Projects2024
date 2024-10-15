@@ -1,65 +1,150 @@
-### Projects2024
-Projets des étudiants en BUT Info 2024-2025
+# Phaser Vite Template
 
-# Projet de Développement de Jeux 
-## Langage de programmation au choix
-Date de Remise : 31/11/2024 à 23h59 – MAX
+This is a Phaser 3 project template that uses Vite for bundling. It supports hot-reloading for quick development workflow and includes scripts to generate production-ready builds.
 
-Chaque jour de retard entrainera une pénalité.
+**[This Template is also available as a TypeScript version.](https://github.com/phaserjs/template-vite-ts)**
 
-## Introduction : 
+### Versions
 
-Vous êtes chargé de travailler en groupe sur un projet de développement de jeux. Les jeux disponibles pour le projet sont :
--	Pac-Man
--	Space Invaders (ou autre Shoot ‘Em Up)
--	Jeu de Dame (ou jeu d'échec)
--	Pong
--	Morpion 
--	Puissance 4
--	Othello
--	Autres petits jeux simples
+This template has been updated for:
 
-Chaque groupe, composé de 3 à 4 étudiants, devra choisir l'un de ces jeux, développer le code en respectant les normes de codage, rédiger un cahier des charges, un plan de test et une documentation technique complète, effectuer des tests unitaires avec un framework de test, pousser le code sur GitHub et effectuer une revue de code sur les pull-request.
+- [Phaser 3.86.0](https://github.com/phaserjs/phaser)
+- [Vite 5.3.1](https://github.com/vitejs/vite)
 
-## Tâches à Réaliser :
+![screenshot](screenshot.png)
 
-#### 1.	Code et Commentaire :
--	Développez le jeu en respectant les normes de codage.
--	Commentez le code de manière claire et explicative.
-#### 2.	Cahier des charges :
--	Rédigez un cahier des charges décrivant les fonctionnalités, les règles du jeu, les objectifs et les spécifications techniques.
-#### 3.	Plan de Test :
--	Élaborez un plan de test détaillé, y compris les scénarios de test, les données de test et les critères d'acceptation. (Plan de test simplifié, sans analyses des risques, juste l’ensemble de vos tests, les critère d’acceptations, et la validation du test)
-#### 4.	Documentation Technique :
--	Créez une documentation technique complète expliquant l'architecture du jeu et la structure du code.
-#### 5.	Tests Unitaires :
--	Implémentez des tests unitaires pour valider le bon fonctionnement du code du jeu.
-#### 6.	GitHub :
--	Créez un répertoire sur GitHub : https://github.com/TMareIUT/Projects2024/  
-[Vos Noms de Famille]_Projet
-Faites en un fork et poussez régulièrement le code source, la documentation, le plan de test et les tests unitaires. N’hésitez pas à faire de multiples Pull-Request.
-#### 7.	Revue de Code :
--	Effectuez une revue de code en utilisant les pull-request sur GitHub pour examiner le code de vos collègues et fournir des commentaires constructifs.
+## Requirements
+
+[Node.js](https://nodejs.org) is required to install dependencies and run scripts via `npm`.
+
+## Available Commands
+
+| Command | Description |
+|---------|-------------|
+| `npm install` | Install project dependencies |
+| `npm run dev` | Launch a development web server |
+| `npm run build` | Create a production build in the `dist` folder |
+| `npm run dev-nolog` | Launch a development web server without sending anonymous data (see "About log.js" below) |
+| `npm run build-nolog` | Create a production build in the `dist` folder without sending anonymous data (see "About log.js" below) |
 
 
+## Writing Code
 
-## Éléments de Notation (4 Notes) :
+After cloning the repo, run `npm install` from your project directory. Then, you can start the local development server by running `npm run dev`.
 
--	Le code (Coef 2) : La notation dépendra de la lisibilité, de la maintenabilité, de l'efficacité et de la conformité aux normes de codage et des commentaires.
--	Les tests (Coef 2) : La notation dépendra de la couverture des tests, de la pertinence de tests et de la détection d'erreurs et du plan de test fournit.
--	La documentation (Coef 1) : La notation dépendra de l'exhaustivité, de la clarté et de la précision de la documentation technique et du cahier des charges.
--	Assiduité (Coef 0,5) : Comme nous avons plusieurs heures de TP devant nous, l’assiduité sera également notée, j’entends par là, un développement poussé régulièrement sur Github, assurez-vous d’avoir un repo public afin que je puisse vérifier 
+The local development server runs on `http://localhost:8080` by default. Please see the Vite documentation if you wish to change this, or add SSL support.
 
-## Conseils :
+Once the server is running you can edit any of the files in the `src` folder. Vite will automatically recompile your code and then reload the browser.
 
--	Certains jeux sont plus difficiles à coder que d’autre. Choisissez ce qui vous semble le plus appropriez pour votre niveau de développement. 
--	Commencez par bien comprendre les règles du jeu que vous avez choisi. 
--	Organisez-vous en groupe de manière efficace, en attribuant des rôles et des tâches.
--	Une tâche -> Une branche -> Une pull-request
+## Template Project Structure
 
-## Remarques :
+We have provided a default project structure to get you started. This is as follows:
 
--	Certains iront puiser du code sur le Net. Assurez vous de ne pas rendre le même code qu’un autre groupe, sinon la note pour le code sera de 0.
--	Je ne noterai pas en fonctions du jeu / de la difficulté choisie mais sur la qualité de code et les commentaires.
--	Le langage de programmation étant au choix, je dois comprendre votre code avec les commentaires et la documentation technique.
+- `index.html` - A basic HTML page to contain the game.
+- `src` - Contains the game source code.
+- `src/main.js` - The main entry point. This contains the game configuration and starts the game.
+- `src/scenes/` - The Phaser Scenes are in this folder.
+- `public/style.css` - Some simple CSS rules to help with page layout.
+- `public/assets` - Contains the static assets used by the game.
 
+## Handling Assets
+
+Vite supports loading assets via JavaScript module `import` statements.
+
+This template provides support for both embedding assets and also loading them from a static folder. To embed an asset, you can import it at the top of the JavaScript file you are using it in:
+
+```js
+import logoImg from './assets/logo.png'
+```
+
+To load static files such as audio files, videos, etc place them into the `public/assets` folder. Then you can use this path in the Loader calls within Phaser:
+
+```js
+preload ()
+{
+    //  This is an example of an imported bundled image.
+    //  Remember to import it at the top of this file
+    this.load.image('logo', logoImg);
+
+    //  This is an example of loading a static image
+    //  from the public/assets folder:
+    this.load.image('background', 'assets/bg.png');
+}
+```
+
+When you issue the `npm run build` command, all static assets are automatically copied to the `dist/assets` folder.
+
+## Deploying to Production
+
+After you run the `npm run build` command, your code will be built into a single bundle and saved to the `dist` folder, along with any other assets your project imported, or stored in the public assets folder.
+
+In order to deploy your game, you will need to upload *all* of the contents of the `dist` folder to a public facing web server.
+
+## Customizing the Template
+
+### Vite
+
+If you want to customize your build, such as adding plugin (i.e. for loading CSS or fonts), you can modify the `vite/config.*.mjs` file for cross-project changes, or you can modify and/or create new configuration files and target them in specific npm tasks inside of `package.json`. Please see the [Vite documentation](https://vitejs.dev/) for more information.
+
+## About log.js
+
+If you inspect our node scripts you will see there is a file called `log.js`. This file makes a single silent API call to a domain called `gryzor.co`. This domain is owned by Phaser Studio Inc. The domain name is a homage to one of our favorite retro games.
+
+We send the following 3 pieces of data to this API: The name of the template being used (vue, react, etc). If the build was 'dev' or 'prod' and finally the version of Phaser being used.
+
+At no point is any personal data collected or sent. We don't know about your project files, device, browser or anything else. Feel free to inspect the `log.js` file to confirm this.
+
+Why do we do this? Because being open source means we have no visible metrics about which of our templates are being used. We work hard to maintain a large and diverse set of templates for Phaser developers and this is our small anonymous way to determine if that work is actually paying off, or not. In short, it helps us ensure we're building the tools for you.
+
+However, if you don't want to send any data, you can use these commands instead:
+
+Dev:
+
+```bash
+npm run dev-nolog
+```
+
+Build:
+
+```bash
+npm run build-nolog
+```
+
+Or, to disable the log entirely, simply delete the file `log.js` and remove the call to it in the `scripts` section of `package.json`:
+
+Before:
+
+```json
+"scripts": {
+    "dev": "node log.js dev & dev-template-script",
+    "build": "node log.js build & build-template-script"
+},
+```
+
+After:
+
+```json
+"scripts": {
+    "dev": "dev-template-script",
+    "build": "build-template-script"
+},
+```
+
+Either of these will stop `log.js` from running. If you do decide to do this, please could you at least join our Discord and tell us which template you're using! Or send us a quick email. Either will be super-helpful, thank you.
+
+## Join the Phaser Community!
+
+We love to see what developers like you create with Phaser! It really motivates us to keep improving. So please join our community and show-off your work 😄
+
+**Visit:** The [Phaser website](https://phaser.io) and follow on [Phaser Twitter](https://twitter.com/phaser_)<br />
+**Play:** Some of the amazing games [#madewithphaser](https://twitter.com/search?q=%23madewithphaser&src=typed_query&f=live)<br />
+**Learn:** [API Docs](https://newdocs.phaser.io), [Support Forum](https://phaser.discourse.group/) and [StackOverflow](https://stackoverflow.com/questions/tagged/phaser-framework)<br />
+**Discord:** Join us on [Discord](https://discord.gg/phaser)<br />
+**Code:** 2000+ [Examples](https://labs.phaser.io)<br />
+**Read:** The [Phaser World](https://phaser.io/community/newsletter) Newsletter<br />
+
+Created by [Phaser Studio](mailto:support@phaser.io). Powered by coffee, anime, pixels and love.
+
+The Phaser logo and characters are &copy; 2011 - 2024 Phaser Studio Inc.
+
+All rights reserved.
