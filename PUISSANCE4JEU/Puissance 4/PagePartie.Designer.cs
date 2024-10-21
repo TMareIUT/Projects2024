@@ -55,20 +55,20 @@ namespace Puissance_4
             // lblTypePartie
             // 
             lblTypePartie.AutoSize = true;
-            lblTypePartie.Font = new Font("Segoe UI", 18F, FontStyle.Regular, GraphicsUnit.Point);
+            lblTypePartie.Font = new Font("Carlito", 18F, FontStyle.Regular, GraphicsUnit.Point);
             lblTypePartie.Location = new Point(35, 30);
             lblTypePartie.Name = "lblTypePartie";
-            lblTypePartie.Size = new Size(87, 32);
+            lblTypePartie.Size = new Size(83, 29);
             lblTypePartie.TabIndex = 0;
             lblTypePartie.Text = "(Partie)";
             // 
             // lblTailleGrille
             // 
             lblTailleGrille.AutoSize = true;
-            lblTailleGrille.Font = new Font("Segoe UI Semibold", 15F, FontStyle.Bold, GraphicsUnit.Point);
+            lblTailleGrille.Font = new Font("Carlito", 15F, FontStyle.Bold, GraphicsUnit.Point);
             lblTailleGrille.Location = new Point(725, 30);
             lblTailleGrille.Name = "lblTailleGrille";
-            lblTailleGrille.Size = new Size(170, 28);
+            lblTailleGrille.Size = new Size(156, 24);
             lblTailleGrille.TabIndex = 9;
             lblTailleGrille.Text = "(taille de la grille)";
             // 
@@ -77,7 +77,7 @@ namespace Puissance_4
             grpRegles.BackColor = Color.Gold;
             grpRegles.Controls.Add(txtRegles);
             grpRegles.Controls.Add(label2);
-            grpRegles.Font = new Font("Segoe UI", 15F, FontStyle.Bold, GraphicsUnit.Point);
+            grpRegles.Font = new Font("Carlito", 15F, FontStyle.Bold, GraphicsUnit.Point);
             grpRegles.Location = new Point(35, 106);
             grpRegles.Margin = new Padding(3, 2, 3, 2);
             grpRegles.Name = "grpRegles";
@@ -92,7 +92,7 @@ namespace Puissance_4
             txtRegles.BackColor = Color.Gold;
             txtRegles.BorderStyle = BorderStyle.None;
             txtRegles.Enabled = false;
-            txtRegles.Font = new Font("Segoe UI", 13F, FontStyle.Regular, GraphicsUnit.Point);
+            txtRegles.Font = new Font("Carlito", 12.75F, FontStyle.Regular, GraphicsUnit.Point);
             txtRegles.Location = new Point(24, 32);
             txtRegles.Multiline = true;
             txtRegles.Name = "txtRegles";
@@ -105,7 +105,7 @@ namespace Puissance_4
             label2.AutoSize = true;
             label2.Location = new Point(18, 28);
             label2.Name = "label2";
-            label2.Size = new Size(0, 28);
+            label2.Size = new Size(0, 24);
             label2.TabIndex = 0;
             // 
             // lblJActif
@@ -136,6 +136,7 @@ namespace Puissance_4
             grpJoueurs.Controls.Add(pictureBox1);
             grpJoueurs.Controls.Add(lblPseudoJ2);
             grpJoueurs.Controls.Add(lblPseudoJ1);
+            grpJoueurs.Font = new Font("Carlito", 9F, FontStyle.Regular, GraphicsUnit.Point);
             grpJoueurs.Location = new Point(52, 372);
             grpJoueurs.Margin = new Padding(3, 2, 3, 2);
             grpJoueurs.Name = "grpJoueurs";
@@ -170,20 +171,20 @@ namespace Puissance_4
             // lblPseudoJ2
             // 
             lblPseudoJ2.AutoSize = true;
-            lblPseudoJ2.Font = new Font("Segoe UI", 13F, FontStyle.Regular, GraphicsUnit.Point);
+            lblPseudoJ2.Font = new Font("Carlito", 12.75F, FontStyle.Regular, GraphicsUnit.Point);
             lblPseudoJ2.Location = new Point(116, 56);
             lblPseudoJ2.Name = "lblPseudoJ2";
-            lblPseudoJ2.Size = new Size(103, 25);
+            lblPseudoJ2.Size = new Size(89, 21);
             lblPseudoJ2.TabIndex = 1;
             lblPseudoJ2.Text = "(pseudo J2)";
             // 
             // lblPseudoJ1
             // 
             lblPseudoJ1.AutoSize = true;
-            lblPseudoJ1.Font = new Font("Segoe UI", 13F, FontStyle.Regular, GraphicsUnit.Point);
+            lblPseudoJ1.Font = new Font("Carlito", 12.75F, FontStyle.Regular, GraphicsUnit.Point);
             lblPseudoJ1.Location = new Point(116, 20);
             lblPseudoJ1.Name = "lblPseudoJ1";
-            lblPseudoJ1.Size = new Size(103, 25);
+            lblPseudoJ1.Size = new Size(89, 21);
             lblPseudoJ1.TabIndex = 0;
             lblPseudoJ1.Text = "(pseudo J1)";
             // 
