@@ -158,7 +158,7 @@ namespace Puissance_4
         {
             Button boutonSurvole = (Button)sender;
 
-            boutonSurvole.ForeColor = Color.Yellow;
+            boutonSurvole.ForeColor = Color.FromArgb(243, 198, 35);
         }
 
     }

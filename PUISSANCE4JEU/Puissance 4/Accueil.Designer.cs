@@ -49,9 +49,9 @@
             // btnJvj
             // 
             btnJvj.AccessibleRole = AccessibleRole.None;
-            btnJvj.BackColor = Color.RoyalBlue;
+            btnJvj.BackColor = Color.FromArgb(2, 76, 170);
             btnJvj.Font = new Font("Segoe UI Black", 15F, FontStyle.Regular, GraphicsUnit.Point);
-            btnJvj.ForeColor = Color.Yellow;
+            btnJvj.ForeColor = Color.FromArgb(243, 198, 35);
             btnJvj.Location = new Point(315, 313);
             btnJvj.Margin = new Padding(3, 2, 3, 2);
             btnJvj.Name = "btnJvj";
@@ -65,9 +65,9 @@
             // 
             // btnJvia
             // 
-            btnJvia.BackColor = Color.RoyalBlue;
+            btnJvia.BackColor = Color.FromArgb(2, 76, 170);
             btnJvia.Font = new Font("Segoe UI Black", 15F, FontStyle.Regular, GraphicsUnit.Point);
-            btnJvia.ForeColor = Color.Yellow;
+            btnJvia.ForeColor = Color.FromArgb(243, 198, 35);
             btnJvia.Location = new Point(315, 390);
             btnJvia.Margin = new Padding(3, 2, 3, 2);
             btnJvia.Name = "btnJvia";
@@ -82,17 +82,17 @@
             // lblTitre
             // 
             lblTitre.AutoSize = true;
-            lblTitre.Font = new Font("Source Sans Pro Black", 40F, FontStyle.Bold, GraphicsUnit.Point);
-            lblTitre.ForeColor = Color.Red;
+            lblTitre.Font = new Font("Microsoft Sans Serif", 40F, FontStyle.Bold, GraphicsUnit.Point);
+            lblTitre.ForeColor = Color.FromArgb(215, 19, 19);
             lblTitre.Location = new Point(256, 188);
             lblTitre.Name = "lblTitre";
-            lblTitre.Size = new Size(340, 68);
+            lblTitre.Size = new Size(362, 63);
             lblTitre.TabIndex = 3;
             lblTitre.Text = "Modes de jeu";
             // 
             // picInfoJVJ
             // 
-            picInfoJVJ.BackColor = Color.RoyalBlue;
+            picInfoJVJ.BackColor = Color.FromArgb(2, 76, 170);
             picInfoJVJ.Image = (Image)resources.GetObject("picInfoJVJ.Image");
             picInfoJVJ.Location = new Point(566, 313);
             picInfoJVJ.Margin = new Padding(3, 2, 3, 2);
@@ -106,7 +106,7 @@
             // 
             // picInfoJVIA
             // 
-            picInfoJVIA.BackColor = Color.RoyalBlue;
+            picInfoJVIA.BackColor = Color.FromArgb(2, 76, 170);
             picInfoJVIA.Image = (Image)resources.GetObject("picInfoJVIA.Image");
             picInfoJVIA.Location = new Point(566, 390);
             picInfoJVIA.Margin = new Padding(3, 2, 3, 2);
@@ -166,17 +166,17 @@
             lblCreateurs.AutoSize = true;
             lblCreateurs.Font = new Font("Segoe UI Black", 9F, FontStyle.Regular, GraphicsUnit.Point);
             lblCreateurs.ForeColor = Color.WhiteSmoke;
-            lblCreateurs.Location = new Point(276, 506);
+            lblCreateurs.Location = new Point(415, 510);
             lblCreateurs.Name = "lblCreateurs";
-            lblCreateurs.Size = new Size(571, 15);
+            lblCreateurs.Size = new Size(419, 15);
             lblCreateurs.TabIndex = 10;
-            lblCreateurs.Text = "CIURLIK Robin, DAVID Claire, MENIVAL Efrem, PARENT Léa, SAVOYE Noa, SOARIZIKY Annaïsse";
+            lblCreateurs.Text = "DRU Mathis , GROULT Marius,  SOARIZIKY Annaïsse, VATRIN Lorenzo";
             // 
             // frmAccueil
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = Color.RoyalBlue;
+            BackColor = Color.FromArgb(2, 76, 170);
             ClientSize = new Size(860, 565);
             Controls.Add(lblCreateurs);
             Controls.Add(lblPuissance4);

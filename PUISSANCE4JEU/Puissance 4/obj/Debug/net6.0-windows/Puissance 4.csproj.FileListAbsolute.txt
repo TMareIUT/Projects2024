@@ -172,3 +172,28 @@ C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-window
 C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.pdb
 C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.genruntimeconfig.cache
 C:\Users\soari\OneDrive\Bureau\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\ref\Puissance 4.dll
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.exe
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.deps.json
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.runtimeconfig.json
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.dll
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\Puissance 4.pdb
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\BibliothèquePuissance4.dll
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\bin\Debug\net6.0-windows\BibliothèquePuissance4.pdb
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.AssemblyReference.cache
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmAccueil.resources
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmPagePartie.resources
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmParamJVIA.resources
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmParamJVJ.resources
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.Properties.Resources.resources
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance_4.frmResultat.resources
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.GenerateResource.cache
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.AssemblyInfoInputs.cache
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.AssemblyInfo.cs
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.CoreCompileInputs.cache
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.csproj.CopyComplete
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.dll
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\refint\Puissance 4.dll
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.pdb
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\Puissance 4.genruntimeconfig.cache
+C:\Users\soari\source\repos\ProjetDev2024\PUISSANCE4JEU\Puissance 4\obj\Debug\net6.0-windows\ref\Puissance 4.dll
