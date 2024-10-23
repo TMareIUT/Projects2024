@@ -1,9 +1,9 @@
 ### Projects2024
-Projets des étudiants en BUT Info 2024-2025
+Projets de Bastien DESHAYES, Antoine SOULAT, Arthur GRAMONT & Louis PADÉ
 
 # Projet de Développement de Jeux 
 ## Langage de programmation au choix
-Date de Remise : 31/11/2024 à 23h59 – MAX
+Date de Remise : 1/3/2025 à 23h59 – MAX
 
 Chaque jour de retard entrainera une pénalité.
 
