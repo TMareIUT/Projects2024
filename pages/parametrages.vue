@@ -3,10 +3,10 @@
 </script>
 
 <template>
-  <div class=" u-flex u-flex-direction-column u-gap30">
+  <div class="u-flex u-flex-direction-column u-gap30">
     <h1>Paramétrages</h1>
 
-    <form class="u-flex u-flex-direction-column u-align-content-center u-gap20">
+    <form class="border u-flex u-flex-direction-column u-align-self-center u-gap20">
       <div class="u-flex u-justify-content-center u-gap20">
         <h2>Taille du plateau</h2>
           <input type="number" id="size" name="size" min="4" max="10">
@@ -24,7 +24,7 @@
         </div>
       </div>
       <div class="u-flex u-justify-content-center u-gap20">
-        <NuxtLink to="/" class="beige-button">Retour</NuxtLink>
+        <NuxtLink to="/" class="red-button">Retour</NuxtLink>
         <NuxtLink to="/jeu" class="beige-button"> Confirmer</NuxtLink>
       </div>
     </form>
@@ -34,9 +34,20 @@
 
 <style scoped>
 
+.border {
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  margin: 20px;
+  padding: 50px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-size: 30px;
 
-.beige-button {
-  background-color: #bbada0;
+  h2 {
+    font-size: 50px;
+  }
+}
+
+.beige-button, .red-button {
   color: black;
   border: none;
   padding: 10px 20px;
@@ -48,10 +59,18 @@
   border-radius: 8px;
 }
 
+.beige-button {
+  background-color: #bbada0;
+}
+
+.red-button {
+  background-color: red;
+}
+
 h1 {
   background-color: #bbada0;
   padding: 30px;
-  font-size: 40px;
+  font-size: 70px;
   text-align: center;
 }
 
