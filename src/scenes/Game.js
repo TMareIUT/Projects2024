@@ -21,9 +21,24 @@ export class Game extends Scene
         this.cameras.main.setBackgroundColor(0x00ff00);
 
         this.cursors = this.input.keyboard.createCursorKeys();
+        
+        this.lastShotTime = 0;
+        /*this.input.keyboard.on("keydown-SPACE", () => {
+            this.player.shoot()
+          });*/
     }
 
-    update() {
+    update(time,delta) {
         this.player.move(this.cursors);
+
+        // Tir automatique toutes les 500 ms
+        if (!this.lastShotTime) {
+            this.lastShotTime = 0;
+        }
+
+        if (time > this.lastShotTime + 250) { // Intervalle de 500ms pour le tir
+            this.player.shoot();
+            this.lastShotTime = time;
+        }
     }
 }
