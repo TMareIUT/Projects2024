@@ -1,6 +1,0 @@
-C:\Users\lorks\Desktop\BUT_1\S2\SAE\Projet final interface git\BiblioClass\obj\Debug\BiblioClass.csproj.AssemblyReference.cache
-C:\Users\lorks\Desktop\BUT_1\S2\SAE\Projet final interface git\BiblioClass\obj\Debug\BiblioClass.csproj.CoreCompileInputs.cache
-C:\Users\lorks\Desktop\BUT_1\S2\SAE\Projet final interface git\BiblioClass\bin\Debug\BiblioClass.dll
-C:\Users\lorks\Desktop\BUT_1\S2\SAE\Projet final interface git\BiblioClass\bin\Debug\BiblioClass.pdb
-C:\Users\lorks\Desktop\BUT_1\S2\SAE\Projet final interface git\BiblioClass\obj\Debug\BiblioClass.dll
-C:\Users\lorks\Desktop\BUT_1\S2\SAE\Projet final interface git\BiblioClass\obj\Debug\BiblioClass.pdb
