@@ -62,8 +62,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UnitTest1.cs" />
-    <Compile Include="Usings.cs" />
     <EmbeddedResource Include="FormJeu.resx">
       <DependentUpon>FormJeu.cs</DependentUpon>
     </EmbeddedResource>
