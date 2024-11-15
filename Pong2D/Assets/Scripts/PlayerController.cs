@@ -19,11 +19,11 @@ public class PlayerController : MonoBehaviour
     {
         if(Input.GetKey(upInput))
         {
-            transform.Translate(Vector3.up * speed);
+            transform.Translate(Vector2.up * speed);
         }
         if (Input.GetKey(downInput))
         {
-            transform.Translate(Vector3.down * speed);
+            transform.Translate(Vector2.down * speed);
         }
     }
 }
