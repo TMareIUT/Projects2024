@@ -1,19 +1,19 @@
 <script setup lang="ts">
 import { ref } from 'vue';
 import { useRouter } from 'vue-router';
+import { useMainStore } from '@/store/index';
 
 const router = useRouter();
+const store = useMainStore();
 const gameType = ref('');
 const boardSize = ref('');
 
 const handleSubmit = () => {
-  router.push({
-    path: '/jeu',
-    query: {
-      type: gameType.value,
-      taille: boardSize.value,
-    },
+  store.updateGameSettings({
+    gameType: gameType.value,
+    boardSize: boardSize.value,
   });
+  router.push('/game');
 };
 </script>
 
@@ -68,7 +68,6 @@ const handleSubmit = () => {
   padding: 50px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   font-size: 2vw;
-
 }
 
 h1 {
@@ -77,7 +76,6 @@ h1 {
   font-size: 3.5vw;
   text-align: center;
 }
-
 
 h2 {
   font-size: 2.5vw;
@@ -103,18 +101,6 @@ h2 {
   background-color: red;
 }
 
-h1 {
-  background-color: #bbada0;
-  padding: 30px;
-  font-size: 3.5vw;
-  text-align: center;
-}
-
-h2 {
-  font-size: 1.5vw;
-  text-align: center;
-}
-
 input, select {
   font-size: 1.5vw;
 }
@@ -132,7 +118,7 @@ input, select {
   }
 
   h1 {
-      font-size: 32px;
+    font-size: 32px;
   }
 
   h2 {
