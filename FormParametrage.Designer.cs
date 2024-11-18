@@ -41,6 +41,7 @@
             this.nudHauteur = new System.Windows.Forms.NumericUpDown();
             this.nudLargeur = new System.Windows.Forms.NumericUpDown();
             this.lblX = new System.Windows.Forms.Label();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.pnlMdJ.SuspendLayout();
             this.pnlTdT.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudHauteur)).BeginInit();
@@ -51,9 +52,10 @@
             // 
             this.lblTitre.AutoSize = true;
             this.lblTitre.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitre.Location = new System.Drawing.Point(110, 50);
+            this.lblTitre.Location = new System.Drawing.Point(82, 41);
+            this.lblTitre.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblTitre.Name = "lblTitre";
-            this.lblTitre.Size = new System.Drawing.Size(360, 39);
+            this.lblTitre.Size = new System.Drawing.Size(290, 31);
             this.lblTitre.TabIndex = 0;
             this.lblTitre.Text = "Configuration du jeux";
             this.lblTitre.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -62,9 +64,10 @@
             // 
             this.lblModeDeJeux.AutoSize = true;
             this.lblModeDeJeux.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblModeDeJeux.Location = new System.Drawing.Point(75, 139);
+            this.lblModeDeJeux.Location = new System.Drawing.Point(56, 113);
+            this.lblModeDeJeux.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblModeDeJeux.Name = "lblModeDeJeux";
-            this.lblModeDeJeux.Size = new System.Drawing.Size(164, 29);
+            this.lblModeDeJeux.Size = new System.Drawing.Size(130, 25);
             this.lblModeDeJeux.TabIndex = 1;
             this.lblModeDeJeux.Text = "Mode de jeux";
             // 
@@ -72,9 +75,10 @@
             // 
             this.lblTailleTableau.AutoSize = true;
             this.lblTailleTableau.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTailleTableau.Location = new System.Drawing.Point(312, 139);
+            this.lblTailleTableau.Location = new System.Drawing.Point(234, 113);
+            this.lblTailleTableau.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblTailleTableau.Name = "lblTailleTableau";
-            this.lblTailleTableau.Size = new System.Drawing.Size(199, 29);
+            this.lblTailleTableau.Size = new System.Drawing.Size(155, 25);
             this.lblTailleTableau.TabIndex = 2;
             this.lblTailleTableau.Text = "Taille du tableau";
             // 
@@ -82,17 +86,19 @@
             // 
             this.pnlMdJ.Controls.Add(this.rdoJvJ);
             this.pnlMdJ.Controls.Add(this.rdoJvIA);
-            this.pnlMdJ.Location = new System.Drawing.Point(85, 192);
+            this.pnlMdJ.Location = new System.Drawing.Point(64, 156);
+            this.pnlMdJ.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pnlMdJ.Name = "pnlMdJ";
-            this.pnlMdJ.Size = new System.Drawing.Size(150, 75);
+            this.pnlMdJ.Size = new System.Drawing.Size(112, 61);
             this.pnlMdJ.TabIndex = 3;
             // 
             // rdoJvJ
             // 
             this.rdoJvJ.AutoSize = true;
-            this.rdoJvJ.Location = new System.Drawing.Point(13, 50);
+            this.rdoJvJ.Location = new System.Drawing.Point(10, 41);
+            this.rdoJvJ.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.rdoJvJ.Name = "rdoJvJ";
-            this.rdoJvJ.Size = new System.Drawing.Size(130, 20);
+            this.rdoJvJ.Size = new System.Drawing.Size(106, 17);
             this.rdoJvJ.TabIndex = 1;
             this.rdoJvJ.TabStop = true;
             this.rdoJvJ.Text = "Joueur vs Joueur";
@@ -102,9 +108,10 @@
             // 
             this.rdoJvIA.AutoSize = true;
             this.rdoJvIA.Checked = true;
-            this.rdoJvIA.Location = new System.Drawing.Point(13, 5);
+            this.rdoJvIA.Location = new System.Drawing.Point(10, 4);
+            this.rdoJvIA.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.rdoJvIA.Name = "rdoJvIA";
-            this.rdoJvIA.Size = new System.Drawing.Size(101, 20);
+            this.rdoJvIA.Size = new System.Drawing.Size(84, 17);
             this.rdoJvIA.TabIndex = 0;
             this.rdoJvIA.TabStop = true;
             this.rdoJvIA.Text = "Joueur vs IA";
@@ -114,17 +121,19 @@
             // 
             this.pnlTdT.Controls.Add(this.rdoPerso);
             this.pnlTdT.Controls.Add(this.rdoClassique);
-            this.pnlTdT.Location = new System.Drawing.Point(335, 193);
+            this.pnlTdT.Location = new System.Drawing.Point(251, 157);
+            this.pnlTdT.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.pnlTdT.Name = "pnlTdT";
-            this.pnlTdT.Size = new System.Drawing.Size(150, 75);
+            this.pnlTdT.Size = new System.Drawing.Size(112, 61);
             this.pnlTdT.TabIndex = 4;
             // 
             // rdoPerso
             // 
             this.rdoPerso.AutoSize = true;
-            this.rdoPerso.Location = new System.Drawing.Point(13, 50);
+            this.rdoPerso.Location = new System.Drawing.Point(10, 41);
+            this.rdoPerso.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.rdoPerso.Name = "rdoPerso";
-            this.rdoPerso.Size = new System.Drawing.Size(107, 20);
+            this.rdoPerso.Size = new System.Drawing.Size(85, 17);
             this.rdoPerso.TabIndex = 1;
             this.rdoPerso.TabStop = true;
             this.rdoPerso.Text = "Personnalisé";
@@ -135,9 +144,10 @@
             // 
             this.rdoClassique.AutoSize = true;
             this.rdoClassique.Checked = true;
-            this.rdoClassique.Location = new System.Drawing.Point(13, 5);
+            this.rdoClassique.Location = new System.Drawing.Point(10, 4);
+            this.rdoClassique.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.rdoClassique.Name = "rdoClassique";
-            this.rdoClassique.Size = new System.Drawing.Size(88, 20);
+            this.rdoClassique.Size = new System.Drawing.Size(70, 17);
             this.rdoClassique.TabIndex = 0;
             this.rdoClassique.TabStop = true;
             this.rdoClassique.Text = "Classique";
@@ -146,9 +156,10 @@
             // 
             // btnValider
             // 
-            this.btnValider.Location = new System.Drawing.Point(250, 350);
+            this.btnValider.Location = new System.Drawing.Point(188, 284);
+            this.btnValider.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnValider.Name = "btnValider";
-            this.btnValider.Size = new System.Drawing.Size(80, 23);
+            this.btnValider.Size = new System.Drawing.Size(60, 19);
             this.btnValider.TabIndex = 5;
             this.btnValider.Text = "Valider";
             this.btnValider.UseVisualStyleBackColor = true;
@@ -157,7 +168,8 @@
             // nudHauteur
             // 
             this.nudHauteur.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.nudHauteur.Location = new System.Drawing.Point(335, 286);
+            this.nudHauteur.Location = new System.Drawing.Point(251, 232);
+            this.nudHauteur.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.nudHauteur.Maximum = new decimal(new int[] {
             10,
             0,
@@ -169,7 +181,7 @@
             0,
             0});
             this.nudHauteur.Name = "nudHauteur";
-            this.nudHauteur.Size = new System.Drawing.Size(50, 22);
+            this.nudHauteur.Size = new System.Drawing.Size(38, 20);
             this.nudHauteur.TabIndex = 6;
             this.nudHauteur.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.nudHauteur.Value = new decimal(new int[] {
@@ -182,7 +194,8 @@
             // nudLargeur
             // 
             this.nudLargeur.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.nudLargeur.Location = new System.Drawing.Point(435, 286);
+            this.nudLargeur.Location = new System.Drawing.Point(326, 232);
+            this.nudLargeur.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.nudLargeur.Maximum = new decimal(new int[] {
             10,
             0,
@@ -194,7 +207,7 @@
             0,
             0});
             this.nudLargeur.Name = "nudLargeur";
-            this.nudLargeur.Size = new System.Drawing.Size(50, 22);
+            this.nudLargeur.Size = new System.Drawing.Size(38, 20);
             this.nudLargeur.TabIndex = 7;
             this.nudLargeur.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.nudLargeur.Value = new decimal(new int[] {
@@ -207,18 +220,19 @@
             // lblX
             // 
             this.lblX.AutoSize = true;
-            this.lblX.Location = new System.Drawing.Point(401, 290);
+            this.lblX.Location = new System.Drawing.Point(301, 236);
+            this.lblX.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblX.Name = "lblX";
-            this.lblX.Size = new System.Drawing.Size(15, 16);
+            this.lblX.Size = new System.Drawing.Size(14, 13);
             this.lblX.TabIndex = 8;
             this.lblX.Text = "X";
             this.lblX.Visible = false;
             // 
             // FormParametrage
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(582, 403);
+            this.ClientSize = new System.Drawing.Size(436, 327);
             this.Controls.Add(this.lblX);
             this.Controls.Add(this.nudLargeur);
             this.Controls.Add(this.nudHauteur);
@@ -228,6 +242,7 @@
             this.Controls.Add(this.lblTailleTableau);
             this.Controls.Add(this.lblModeDeJeux);
             this.Controls.Add(this.lblTitre);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "FormParametrage";
             this.Text = "Puissance4 - parametrage";
             this.pnlMdJ.ResumeLayout(false);
@@ -256,6 +271,7 @@
         private System.Windows.Forms.NumericUpDown nudHauteur;
         private System.Windows.Forms.NumericUpDown nudLargeur;
         private System.Windows.Forms.Label lblX;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
 

@@ -10,9 +10,9 @@ namespace BiblioClass
     {
         private int[,] _tab;
         public int _hauteur, _largeur;
-        private Dictionary<int, int> _remplissage = new Dictionary<int, int>();
+        private Dictionary<int, int> _remplissage = new Dictionary<int, int>(); // Indique le nombre de pions dans chaque colonne
         private int _poids = 0; // de base pas 0
-        private int _meilleurCoup = 0;
+        private int _meilleurCoup = 0; // Représente la colonne du meilleur coup 
         private int _profondeur = 0;
         
         //Constructeur
@@ -26,7 +26,7 @@ namespace BiblioClass
                     _tab[i, j] = 0;
                 }
             }
-            InitialisationRemplissage();
+            InitialisationRemplissage(); // Initialise les colonnes comme vide
         }
         public Grille(int hau, int lar)
         {
@@ -38,7 +38,7 @@ namespace BiblioClass
                     _tab[i, j] = 0;
                 }
             }
-            InitialisationRemplissage();
+            InitialisationRemplissage(); // Initialise les colonnes comme vide
         }
 
         //Getters et Setters
@@ -109,6 +109,7 @@ namespace BiblioClass
             return copy;
         }
 
+        // Vérifie si un joueur a aligné 4 pions dans la grille
         public bool Victoire(bool joueur)
         {
             int nbJoueur = joueur ? 2 : 1;
