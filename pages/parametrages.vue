@@ -1,66 +1,86 @@
 <script setup lang="ts">
+
 import { ref } from 'vue';
 import { useRouter } from 'vue-router';
 import { useMainStore } from '@/store/index';
 
 const router = useRouter();
 const store = useMainStore();
+
 const gameType = ref('');
 const boardSize = ref('');
 
+// enregistre les paramètres du jeu
 const handleSubmit = () => {
   store.updateGameSettings({
     gameType: gameType.value,
     boardSize: boardSize.value,
   });
+
+  // redirige vers la page du jeu
   router.push('/game');
 };
+
 </script>
 
 <template>
   <div class="u-flex u-flex-direction-column u-gap30">
+
     <h1>Paramétrages</h1>
 
     <form @submit.prevent="handleSubmit" class="border u-flex u-flex-direction-column u-align-self-center u-gap20">
-      <div class="u-flex u-p20 u-justify-content-center u-gap50">
-        <h2 class="u-flex u-justify-content-center">Type</h2>
+
+      <div class="u-flex u-p20 u-justify-content-center u-gap50--m u-gap20--s">
+        <h2 class="u-flex vertical-align u-justify-content-center">Type</h2>
+
         <div class="vertical-align u-flex u-justify-content-center u-gap5">
           <input type="radio" id="2048" name="type" value="2048" v-model="gameType" />
           <label for="2048">2048</label>
         </div>
+
         <div class="vertical-align u-flex u-justify-content-center u-gap5">
           <input type="radio" id="Infini" name="type" value="Infini" v-model="gameType" />
           <label for="Infini">Infini</label>
         </div>
       </div>
-      <div class="u-flex u-justify-content-center u-gap20">
+
+
+      <div class="u-flex u-justify-content-center u-gap20--m u-gap10--s">
+
         <h2>Taille du plateau</h2>
+
         <div class="vertical-align u-flex u-justify-content-center u-gap5">
           <input type="radio" id="4x4" name="taille" value="4x4" v-model="boardSize" />
           <label for="4x4">4x4</label>
         </div>
+
         <div class="vertical-align u-flex u-justify-content-center u-gap5">
           <input type="radio" id="5x5" name="taille" value="5x5" v-model="boardSize" />
           <label for="5x5">5x5</label>
         </div>
+
         <div class="vertical-align u-flex u-justify-content-center u-gap5">
           <input type="radio" id="6x6" name="taille" value="6x6" v-model="boardSize" />
           <label for="6x6">6x6</label>
         </div>
+
         <div class="vertical-align u-flex u-justify-content-center u-gap5">
           <input type="radio" id="7x7" name="taille" value="7x7" v-model="boardSize" />
           <label for="7x7">7x7</label>
         </div>
       </div>
+
       <div class="u-flex u-justify-content-center u-gap20">
         <NuxtLink to="/" class="red-button">Retour</NuxtLink>
         <button type="submit" class="beige-button">Confirmer</button>
       </div>
+
     </form>
   </div>
 </template>
 
 <style scoped>
+
 .border {
   border: 1px solid lightgray;
   border-radius: 8px;
@@ -110,7 +130,7 @@ input, select {
   align-items: center;
 }
 
-/* Media Queries for Responsiveness */
+
 @media (max-width: 1300px) {
   .border {
     padding: 20px;
@@ -135,17 +155,10 @@ input, select {
   }
 }
 
+
 @media (max-width: 480px) {
   .border {
     padding: 10px;
-    font-size: 16px;
-  }
-
-  h1 {
-    font-size: 24px;
-  }
-
-  h2 {
     font-size: 16px;
   }
 
@@ -157,5 +170,10 @@ input, select {
     font-size: 14px;
     padding: 6px 12px;
   }
+
+  .u-flex {
+    flex-direction: column;
+  }
 }
+
 </style>
