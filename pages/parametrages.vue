@@ -24,13 +24,20 @@ const handleSubmit = () => {
 </script>
 
 <template>
+
   <div class="u-flex u-flex-direction-column u-gap30">
 
     <h1>Paramétrages</h1>
 
+    <!-- Si l'utilisateur clique sur confirmer, on lance le jeu avec les paramètres qu'il a choisi -->
+
     <form @submit.prevent="handleSubmit" class="border u-flex u-flex-direction-column u-align-self-center u-gap20">
 
+
+      <!-- Soit le jeu fini lorsque le bloc 2048 apparaît, soit le jeu est infini -->
+
       <div class="u-flex u-p20 u-justify-content-center u-gap50 u-gap20--s">
+
         <h2 class="u-flex vertical-align u-justify-content-center">Type</h2>
 
         <div class="vertical-align u-flex u-justify-content-center u-gap5">
@@ -44,6 +51,8 @@ const handleSubmit = () => {
         </div>
       </div>
 
+
+      <!-- Choix de la taille du plateau -->
 
       <div class="u-flex u-justify-content-center u-gap20 u-gap10--s">
 
@@ -70,6 +79,8 @@ const handleSubmit = () => {
         </div>
       </div>
 
+      <!-- Soit on retourne au menu principal, soit on garde les paramètres choisis et on passe au jeu -->
+
       <div class="u-flex u-justify-content-center u-gap20">
         <NuxtLink to="/" class="red-button">Retour</NuxtLink>
         <button type="submit" class="beige-button">Confirmer</button>
@@ -77,6 +88,7 @@ const handleSubmit = () => {
 
     </form>
   </div>
+
 </template>
 
 <style scoped>
@@ -132,6 +144,7 @@ input, select {
 
 
 @media (max-width: 1300px) {
+
   .border {
     padding: 20px;
     font-size: 24px;
@@ -157,6 +170,7 @@ input, select {
 
 
 @media (max-width: 480px) {
+
   .border {
     padding: 10px;
     font-size: 16px;
