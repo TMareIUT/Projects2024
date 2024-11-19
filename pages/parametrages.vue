@@ -30,7 +30,7 @@ const handleSubmit = () => {
 
     <form @submit.prevent="handleSubmit" class="border u-flex u-flex-direction-column u-align-self-center u-gap20">
 
-      <div class="u-flex u-p20 u-justify-content-center u-gap50--m u-gap20--s">
+      <div class="u-flex u-p20 u-justify-content-center u-gap50 u-gap20--s">
         <h2 class="u-flex vertical-align u-justify-content-center">Type</h2>
 
         <div class="vertical-align u-flex u-justify-content-center u-gap5">
@@ -45,7 +45,7 @@ const handleSubmit = () => {
       </div>
 
 
-      <div class="u-flex u-justify-content-center u-gap20--m u-gap10--s">
+      <div class="u-flex u-justify-content-center u-gap20 u-gap10--s">
 
         <h2>Taille du plateau</h2>
 
