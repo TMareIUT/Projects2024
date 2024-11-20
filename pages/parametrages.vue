@@ -27,7 +27,7 @@ const handleSubmit = () => {
 
   <div class="u-flex u-flex-direction-column u-gap30">
 
-    <h1>Paramétrages</h1>
+    <h1>2048</h1>
 
     <!-- Si l'utilisateur clique sur confirmer, on lance le jeu avec les paramètres qu'il a choisi -->
 
@@ -79,10 +79,9 @@ const handleSubmit = () => {
         </div>
       </div>
 
-      <!-- Soit on retourne au menu principal, soit on garde les paramètres choisis et on passe au jeu -->
+      <!-- On garde les paramètres choisis et on passe au jeu en cliquant sur ce bouton -->
 
       <div class="u-flex u-justify-content-center u-gap20">
-        <NuxtLink to="/" class="red-button">Retour</NuxtLink>
         <button type="submit" class="beige-button">Confirmer</button>
       </div>
 
