@@ -180,7 +180,16 @@ namespace Puissance4
             bool mode = frmParam.PartieEnCours.modeDeJeu;
             int hauteur = frmParam.PartieEnCours.plateau.hauteur;
             int largeur = frmParam.PartieEnCours.plateau.largeur;
-            frmParam.PartieEnCours = new Partie(mode, hauteur, largeur);
+            if (frmParam.PartieEnCours.plateau.Victoire(true)) frmParam.PartieEnCours.victoireRouge++;
+            else
+            {
+                if (frmParam.PartieEnCours.plateau.Victoire(false)) frmParam.PartieEnCours.victoireJaune++;
+            }
+                frmParam.PartieEnCours = new Partie(mode, hauteur, largeur, frmParam.PartieEnCours.victoireRouge, frmParam.PartieEnCours.victoireJaune);
+            lblVictoireRouge.Text = frmParam.PartieEnCours.victoireRouge.ToString();
+            lblVictoireRouge.Visible = true;
+            lblVictoireJaune.Text = frmParam.PartieEnCours.victoireJaune.ToString();
+            lblVictoireJaune.Visible = true;
             lblVictoire.Text = "";
             btnRejouer.Visible = false;
             MAJInterface();

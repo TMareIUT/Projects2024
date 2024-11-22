@@ -11,18 +11,24 @@ namespace BiblioClass
     {
         private Grille _plateau;
         private bool _modeDeJeu; // False IA True 1v1
+        private int _victoireRouge;
+        private int _victoireJaune;
 
         //Constructeur
         public Partie()
         {
             _modeDeJeu = false;
             _plateau = new Grille();
+            _victoireRouge = 0;
+            _victoireJaune = 0;
         }
 
-        public Partie(bool mode, int hauteur, int largeur)
+        public Partie(bool mode, int hauteur, int largeur, int victoireRouge, int victoireJaune)
         {
             _modeDeJeu = mode;
             _plateau = new Grille(hauteur,largeur);
+            _victoireRouge = victoireRouge;
+            _victoireJaune = victoireJaune;
         }
 
         //Getter
@@ -39,6 +45,30 @@ namespace BiblioClass
             get
             {
                 return _plateau;
+            }
+        }
+
+        public int victoireRouge
+        {
+            get
+            {
+                return _victoireRouge;
+            }
+            set
+            {
+                _victoireRouge = value;
+            }
+        }
+
+        public int victoireJaune
+        {
+            get
+            {
+                return _victoireJaune;
+            }
+            set
+            {
+                _victoireJaune = value;
             }
         }
 

@@ -33,6 +33,8 @@
             this.lblVictoire = new System.Windows.Forms.Label();
             this.btnRetour = new System.Windows.Forms.Button();
             this.btnRejouer = new System.Windows.Forms.Button();
+            this.lblVictoireRouge = new System.Windows.Forms.Label();
+            this.lblVictoireJaune = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -52,33 +54,24 @@
             this.lblTour.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTour.Location = new System.Drawing.Point(307, 42);
             this.lblTour.Name = "lblTour";
-
             this.lblTour.Size = new System.Drawing.Size(304, 39);
             this.lblTour.TabIndex = 1;
             this.lblTour.Text = "Au tour du joueur ";
             this.lblTour.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-
-            this.lblTour.Size = new System.Drawing.Size(0, 20);
-            this.lblTour.TabIndex = 1;
-
             // 
             // lblVictoire
             // 
             this.lblVictoire.AutoSize = true;
             this.lblVictoire.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblVictoire.Location = new System.Drawing.Point(308, 869);
+            this.lblVictoire.Location = new System.Drawing.Point(370, 869);
             this.lblVictoire.Name = "lblVictoire";
-
             this.lblVictoire.Size = new System.Drawing.Size(124, 36);
             this.lblVictoire.TabIndex = 2;
             this.lblVictoire.Text = "Victoire";
-
-            this.lblVictoire.Size = new System.Drawing.Size(0, 20);
-            this.lblVictoire.TabIndex = 2;
-
             // 
             // btnRetour
             // 
+            this.btnRetour.AutoSize = true;
             this.btnRetour.Location = new System.Drawing.Point(81, 869);
             this.btnRetour.Name = "btnRetour";
             this.btnRetour.Size = new System.Drawing.Size(75, 45);
@@ -98,12 +91,35 @@
             this.btnRejouer.Visible = false;
             this.btnRejouer.Click += new System.EventHandler(this.btnRejouer_Click);
             // 
+            // lblVictoireRouge
+            // 
+            this.lblVictoireRouge.AutoSize = true;
+            this.lblVictoireRouge.Location = new System.Drawing.Point(112, 42);
+            this.lblVictoireRouge.Name = "lblVictoireRouge";
+            this.lblVictoireRouge.Size = new System.Drawing.Size(14, 16);
+            this.lblVictoireRouge.TabIndex = 5;
+            this.lblVictoireRouge.Text = "0";
+            this.lblVictoireRouge.Visible = false;
+            // 
+            // lblVictoireJaune
+            // 
+            this.lblVictoireJaune.AutoSize = true;
+            this.lblVictoireJaune.Location = new System.Drawing.Point(240, 41);
+            this.lblVictoireJaune.Name = "lblVictoireJaune";
+            this.lblVictoireJaune.Size = new System.Drawing.Size(14, 16);
+            this.lblVictoireJaune.TabIndex = 6;
+            this.lblVictoireJaune.Text = "0";
+            this.lblVictoireJaune.Visible = false;
+            // 
             // FormJeu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1051, 936);
+            this.ClientSize = new System.Drawing.Size(1902, 1033);
+            this.Controls.Add(this.lblVictoireJaune);
+            this.Controls.Add(this.lblVictoireRouge);
             this.Controls.Add(this.btnRejouer);
             this.Controls.Add(this.btnRetour);
             this.Controls.Add(this.lblVictoire);
@@ -125,5 +141,7 @@
         private System.Windows.Forms.Label lblVictoire;
         private System.Windows.Forms.Button btnRetour;
         private System.Windows.Forms.Button btnRejouer;
+        private System.Windows.Forms.Label lblVictoireRouge;
+        private System.Windows.Forms.Label lblVictoireJaune;
     }
 }
