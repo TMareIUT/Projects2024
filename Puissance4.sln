@@ -7,11 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puissance4", "Puissance4.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblioClass", "BiblioClass\BiblioClass.csproj", "{8B35AE8D-27FE-4CE9-A848-28F4D00D3788}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{8396CF6A-BF49-445B-882D-D7B1250E02D4}"
-	ProjectSection(SolutionItems) = preProject
-		UnitTest1.cs = UnitTest1.cs
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test1", "..\Test1\Test1.csproj", "{571FB65C-1F89-4153-9644-AAA7F0C437F1}"
 EndProject
 Global
