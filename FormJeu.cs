@@ -1,8 +1,8 @@
-﻿using System;
+﻿using BiblioClass;
+using System;
 using System.Drawing;
 using System.IO;
 using System.Windows.Forms;
-using BiblioClass;
 
 namespace Puissance4
 {
@@ -77,7 +77,7 @@ namespace Puissance4
                         {
                             graphics.DrawImage(pionJaune, j * pionJaune.Width, hauteur * pionJaune.Height);
                         }
-                        else if(frmParam.PartieEnCours.plateau.tab[i, j] == 2)
+                        else if (frmParam.PartieEnCours.plateau.tab[i, j] == 2)
                             graphics.DrawImage(pionRouge, j * pionRouge.Width, hauteur * pionRouge.Height);
                         else
                         {
@@ -122,7 +122,7 @@ namespace Puissance4
                     if (partieCible.Contains(e.Location) && !frmParam.PartieEnCours.colonnePleine(i) && !frmParam.PartieEnCours.plateau.Victoire(joueur) && !frmParam.PartieEnCours.plateau.Victoire(!joueur))
                     {
                         frmParam.PartieEnCours.plateau.PlacerUnPion(frmParam.PartieEnCours.plateau, i, joueur);
-                        MAJInterface();      
+                        MAJInterface();
                         if (frmParam.PartieEnCours.plateau.Victoire(joueur)) lblVictoire.Text = $"Victoire du joueur {couleurJoueur}";
                         joueur = !joueur;
                         if (frmParam.PartieEnCours.plateau.estPlein())
@@ -161,10 +161,10 @@ namespace Puissance4
                             }
                         }
                         MAJInterface();
-                    } 
+                    }
                 }
             }
-            if (frmParam.PartieEnCours.plateau.Victoire(joueur) || frmParam.PartieEnCours.plateau.Victoire(!joueur)) btnRejouer.Visible = true ;
+            if (frmParam.PartieEnCours.plateau.Victoire(joueur) || frmParam.PartieEnCours.plateau.Victoire(!joueur)) btnRejouer.Visible = true;
             pictureBox1.ResumeLayout();
         }
 
@@ -185,7 +185,7 @@ namespace Puissance4
             {
                 if (frmParam.PartieEnCours.plateau.Victoire(false)) frmParam.PartieEnCours.victoireJaune++;
             }
-                frmParam.PartieEnCours = new Partie(mode, hauteur, largeur, frmParam.PartieEnCours.victoireRouge, frmParam.PartieEnCours.victoireJaune);
+            frmParam.PartieEnCours = new Partie(mode, hauteur, largeur, frmParam.PartieEnCours.victoireRouge, frmParam.PartieEnCours.victoireJaune);
             lblVictoireRouge.Text = frmParam.PartieEnCours.victoireRouge.ToString();
             lblVictoireRouge.Visible = true;
             lblVictoireJaune.Text = frmParam.PartieEnCours.victoireJaune.ToString();
