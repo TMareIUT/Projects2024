@@ -1,47 +1,24 @@
-################################### 
-# Fichiers générés par Unreal Engine # 
-################################# 
-/[Bb]uild 
-/[Bb]uilds 
-/Binaries 
-/DerivedDataCache 
-/Intermediate 
-/Saved 
-################################# 
-# Fichiers générés par Visual Studio # 
-################################# 
-# Répertoire de cache 
-.vs 
-# Fichiers spécifiques à l'utilisateur 
-*.rsuser 
-*.suo 
-*.user 
-*.userosscache 
-*.sln.docstates 
-# Fichiers de cache CPP 
-*.VC.db 
-*.opendb 
-*.opensdf 
-*.sdf 
-# Fichiers de solution 
-*.sln 
-# Répertoire de cache VSCode 
-.vscode 
-# Fichiers d'historique VSCode 
-**/.history 
-################################### 
-# Fichiers générés par JetBrains Rider # 
-################################### 
-# Répertoire de cache 
-.idea 
-# Fichiers de solution et de projet 
-*.sln 
-*.csproj 
-*.sln.DotSettings 
-*.sln.DotSettings.user
-################################### 
-# Fichiers divers #
-################################### 
-# Fichiers de sauvegarde
-Pac_Man/Content
-Pac_Man/Intermediate
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
