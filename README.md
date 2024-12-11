@@ -1,8 +1,7 @@
 # Pac Man
 
 ## Technologies
-- Moteur : Unreal Engine 5.4.4
-- Langage : C++
+- FrameWork : React
 - Plateformes : Windows, Mac, Linux
 
 ## Description
@@ -34,14 +33,6 @@ git clone https://github.com/Antto0509/Lambert-Coutreel-Viguoine_Project.git
 - Les dossiers sont les suivants :
   - Content
   - Intermediate
-
-### Compatibilité des versions
-Il est recommandé d'utiliser la version 5.4.4 d'Unreal Engine, qui a été utilisée pour développer ce projet, afin d'éviter tout problème de compatibilité.
-
-### Lancer le projet
-- Ouvrir le projet avec Unreal Engine
-- Compiler le projet
-- Lancer le projet
 
 ## Auteurs
 - [Téo Lambert](https://www.linkedin.com/in/t%C3%A9o-lambert-874832253/)
