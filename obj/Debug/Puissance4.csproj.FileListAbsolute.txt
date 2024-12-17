@@ -55,3 +55,17 @@ C:\Users\mariu\OneDrive\Documents\Nouveau dossier\obj\Debug\Puissance4.csproj.Co
 C:\Users\mariu\OneDrive\Documents\Nouveau dossier\obj\Debug\Puissance4.csproj.Up2Date
 C:\Users\mariu\OneDrive\Documents\Nouveau dossier\obj\Debug\Puissance4.exe
 C:\Users\mariu\OneDrive\Documents\Nouveau dossier\obj\Debug\Puissance4.pdb
+C:\Users\soari\Documents\GitHub\ProjetDev2024\bin\Debug\Puissance4.exe.config
+C:\Users\soari\Documents\GitHub\ProjetDev2024\bin\Debug\Puissance4.exe
+C:\Users\soari\Documents\GitHub\ProjetDev2024\bin\Debug\Puissance4.pdb
+C:\Users\soari\Documents\GitHub\ProjetDev2024\bin\Debug\BiblioClass.dll
+C:\Users\soari\Documents\GitHub\ProjetDev2024\bin\Debug\BiblioClass.pdb
+C:\Users\soari\Documents\GitHub\ProjetDev2024\obj\Debug\Puissance4.csproj.AssemblyReference.cache
+C:\Users\soari\Documents\GitHub\ProjetDev2024\obj\Debug\Puissance4.FormJeu.resources
+C:\Users\soari\Documents\GitHub\ProjetDev2024\obj\Debug\Puissance4.FormParametrage.resources
+C:\Users\soari\Documents\GitHub\ProjetDev2024\obj\Debug\Puissance4.Properties.Resources.resources
+C:\Users\soari\Documents\GitHub\ProjetDev2024\obj\Debug\Puissance4.csproj.GenerateResource.cache
+C:\Users\soari\Documents\GitHub\ProjetDev2024\obj\Debug\Puissance4.csproj.CoreCompileInputs.cache
+C:\Users\soari\Documents\GitHub\ProjetDev2024\obj\Debug\Puissance4.csproj.Up2Date
+C:\Users\soari\Documents\GitHub\ProjetDev2024\obj\Debug\Puissance4.exe
+C:\Users\soari\Documents\GitHub\ProjetDev2024\obj\Debug\Puissance4.pdb
