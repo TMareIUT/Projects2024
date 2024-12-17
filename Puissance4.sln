@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiblioClass", "BiblioClass\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test1", "..\Test1\Test1.csproj", "{571FB65C-1F89-4153-9644-AAA7F0C437F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjet", "..\TestProjet\TestProjet.csproj", "{F1F87E0B-1CB6-4D99-A3BC-3AF6F71A1E92}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8B35AE8D-27FE-4CE9-A848-28F4D00D3788} = {8B35AE8D-27FE-4CE9-A848-28F4D00D3788}
+		{F465E44D-17E1-4891-8829-4BE101B98387} = {F465E44D-17E1-4891-8829-4BE101B98387}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +33,10 @@ Global
 		{571FB65C-1F89-4153-9644-AAA7F0C437F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{571FB65C-1F89-4153-9644-AAA7F0C437F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{571FB65C-1F89-4153-9644-AAA7F0C437F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F87E0B-1CB6-4D99-A3BC-3AF6F71A1E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F87E0B-1CB6-4D99-A3BC-3AF6F71A1E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F87E0B-1CB6-4D99-A3BC-3AF6F71A1E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F87E0B-1CB6-4D99-A3BC-3AF6F71A1E92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

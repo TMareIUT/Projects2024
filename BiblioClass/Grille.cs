@@ -14,7 +14,7 @@ namespace BiblioClass
         private int _poids = 0; // de base pas 0
         private int _meilleurCoup = 0; // Représente la colonne du meilleur coup 
         private int _profondeur = 0;
-        
+
         //Constructeur
         public Grille()
         {
@@ -56,7 +56,7 @@ namespace BiblioClass
             {
                 return _hauteur;
             }
-            set 
+            set
             {
                 _hauteur = value;
             }
@@ -110,7 +110,7 @@ namespace BiblioClass
         }
 
         // Vérifie si un joueur a aligné 4 pions dans la grille
-        public bool Victoire(bool joueur)
+        public virtual bool Victoire(bool joueur)
         {
             int nbJoueur = joueur ? 2 : 1;
 
@@ -177,7 +177,7 @@ namespace BiblioClass
             return false;
         }
 
-        public int PionsAlign3(bool joueur)
+        public virtual int PionsAlign3(bool joueur)
         {
             int nbJoueur = joueur ? 2 : 1;
             int nbAlign = 0;
@@ -240,7 +240,7 @@ namespace BiblioClass
             return nbAlign;
         }
 
-        public int PionsAlign2(bool joueur)
+        public virtual int PionsAlign2(bool joueur)
         {
             int nbJoueur = joueur ? 2 : 1;
             int nbAlign = 0;
@@ -324,13 +324,35 @@ namespace BiblioClass
         {
             for (int i = 0; i < _largeur; i++)
             {
-                if (_remplissage[i] >0)
+                if (_remplissage[i] > 0)
                 {
                     return false;
                 }
             }
             return true;
         }
+
+    }
+
+    public class GrilleMock : Grille
+    {
+        private Func<bool, int> _pionsAlign3;
+        private Func<bool, int> _pionsAlign2;
+        private Func<bool, bool> _victoire;
+
+        public GrilleMock(
+            Func<bool, int> pionsAlign3 = null,
+            Func<bool, int> pionsAlign2 = null,
+            Func<bool, bool> victoire = null)
+        {
+            _pionsAlign3 = pionsAlign3 ?? (joueur => 0);
+            _pionsAlign2 = pionsAlign2 ?? (joueur => 0);
+            _victoire = victoire ?? (joueur => false);
+        }
+
+        public override int PionsAlign3(bool joueur) => _pionsAlign3(joueur);
+        public override int PionsAlign2(bool joueur) => _pionsAlign2(joueur);
+        public override bool Victoire(bool joueur) => _victoire(joueur);
     }
     // -10 pour victoire joueur2 true   +10 pour victoire joueur1 false
 }

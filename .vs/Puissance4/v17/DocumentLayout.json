@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F87E0B-1CB6-4D99-A3BC-3AF6F71A1E92}|..\\TestProjet\\TestProjet.csproj|c:\\users\\mariu\\onedrive\\documents\\testprojet\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F87E0B-1CB6-4D99-A3BC-3AF6F71A1E92}|..\\TestProjet\\TestProjet.csproj|c:\\users\\mariu\\onedrive\\documents\\testprojet\\testprojet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B35AE8D-27FE-4CE9-A848-28F4D00D3788}|BiblioClass\\BiblioClass.csproj|c:\\users\\mariu\\onedrive\\documents\\nouveau dossier\\biblioclass\\grille.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B35AE8D-27FE-4CE9-A848-28F4D00D3788}|BiblioClass\\BiblioClass.csproj|solutionrelative:biblioclass\\grille.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F465E44D-17E1-4891-8829-4BE101B98387}|Puissance4.csproj|C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\formparametrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F465E44D-17E1-4891-8829-4BE101B98387}|Puissance4.csproj|solutionrelative:formparametrage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\soari\\Documents\\Test1\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F465E44D-17E1-4891-8829-4BE101B98387}|Puissance4.csproj|C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\formjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F465E44D-17E1-4891-8829-4BE101B98387}|Puissance4.csproj|solutionrelative:formjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B35AE8D-27FE-4CE9-A848-28F4D00D3788}|BiblioClass\\BiblioClass.csproj|C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\biblioclass\\partie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B35AE8D-27FE-4CE9-A848-28F4D00D3788}|BiblioClass\\BiblioClass.csproj|solutionrelative:biblioclass\\partie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F465E44D-17E1-4891-8829-4BE101B98387}|Puissance4.csproj|C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\formjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F465E44D-17E1-4891-8829-4BE101B98387}|Puissance4.csproj|solutionrelative:formjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F465E44D-17E1-4891-8829-4BE101B98387}|Puissance4.csproj|C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\formjeu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F465E44D-17E1-4891-8829-4BE101B98387}|Puissance4.csproj|solutionrelative:formjeu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F465E44D-17E1-4891-8829-4BE101B98387}|Puissance4.csproj|C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\formparametrage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F465E44D-17E1-4891-8829-4BE101B98387}|Puissance4.csproj|solutionrelative:formparametrage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestProjet",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\TestProjet\\TestProjet.csproj",
+              "RelativeDocumentMoniker": "..\\TestProjet\\TestProjet.csproj",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\TestProjet\\TestProjet.csproj",
+              "RelativeToolTip": "..\\TestProjet\\TestProjet.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T18:11:17.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\TestProjet\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestProjet\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\TestProjet\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestProjet\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:51:47.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\soari\\Documents\\Test1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\soari\\Documents\\Test1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\soari\\Documents\\Test1\\UnitTest1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\soari\\Documents\\Test1\\UnitTest1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:21:34.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grille.cs",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\BiblioClass\\Grille.cs",
+              "RelativeDocumentMoniker": "BiblioClass\\Grille.cs",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\BiblioClass\\Grille.cs",
+              "RelativeToolTip": "BiblioClass\\Grille.cs",
+              "ViewState": "AgIAAFABAAAAAAAAAAA+wA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:21:34.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormParametrage.cs",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\FormParametrage.cs",
+              "RelativeDocumentMoniker": "FormParametrage.cs",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\FormParametrage.cs",
+              "RelativeToolTip": "FormParametrage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:21:34.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Partie.cs",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\BiblioClass\\Partie.cs",
+              "RelativeDocumentMoniker": "BiblioClass\\Partie.cs",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\BiblioClass\\Partie.cs",
+              "RelativeToolTip": "BiblioClass\\Partie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:21:34.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormJeu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\FormJeu.Designer.cs",
+              "RelativeDocumentMoniker": "FormJeu.Designer.cs",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\FormJeu.Designer.cs",
+              "RelativeToolTip": "FormJeu.Designer.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAwwGUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-12-17T17:21:34.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormJeu.cs",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\FormJeu.cs",
+              "RelativeDocumentMoniker": "FormJeu.cs",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\FormJeu.cs",
+              "RelativeToolTip": "FormJeu.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAswMEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-17T17:21:34.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormJeu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\FormJeu.cs",
+              "RelativeDocumentMoniker": "FormJeu.cs",
+              "ToolTip": "C:\\Users\\soari\\Documents\\ProjetDev2024\\FormJeu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\soari\\Documents\\ProjetDev2024\\FormJeu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-17T17:21:34.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormParametrage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\FormParametrage.Designer.cs",
+              "RelativeDocumentMoniker": "FormParametrage.Designer.cs",
+              "ToolTip": "C:\\Users\\mariu\\OneDrive\\Documents\\Nouveau dossier\\FormParametrage.Designer.cs",
+              "RelativeToolTip": "FormParametrage.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-12-17T17:21:34.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

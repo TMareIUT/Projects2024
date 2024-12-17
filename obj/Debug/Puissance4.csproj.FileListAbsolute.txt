@@ -41,3 +41,17 @@ C:\Users\lorks\Desktop\BUT3\R5.08\ProjetPuissance4\obj\Debug\Puissance4.csproj.C
 C:\Users\lorks\Desktop\BUT3\R5.08\ProjetPuissance4\obj\Debug\Puissance4.csproj.CopyComplete
 C:\Users\lorks\Desktop\BUT3\R5.08\ProjetPuissance4\obj\Debug\Puissance4.exe
 C:\Users\lorks\Desktop\BUT3\R5.08\ProjetPuissance4\obj\Debug\Puissance4.pdb
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\bin\Debug\Puissance4.exe.config
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\bin\Debug\Puissance4.exe
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\bin\Debug\Puissance4.pdb
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\bin\Debug\BiblioClass.dll
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\bin\Debug\BiblioClass.pdb
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\obj\Debug\Puissance4.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\obj\Debug\Puissance4.FormJeu.resources
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\obj\Debug\Puissance4.FormParametrage.resources
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\obj\Debug\Puissance4.Properties.Resources.resources
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\obj\Debug\Puissance4.csproj.GenerateResource.cache
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\obj\Debug\Puissance4.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\obj\Debug\Puissance4.csproj.Up2Date
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\obj\Debug\Puissance4.exe
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\obj\Debug\Puissance4.pdb
