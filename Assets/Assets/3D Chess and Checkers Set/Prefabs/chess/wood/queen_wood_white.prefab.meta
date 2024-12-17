@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 544a37b325b905845a37ab0359bf1d0a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259109
+  packageName: 3D Chess and Checkers Set
+  packageVersion: 1.0
+  assetPath: Assets/3D Chess and Checkers Set/Prefabs/chess/wood/queen_wood_white.prefab
+  uploadId: 611842

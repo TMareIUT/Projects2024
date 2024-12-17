@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 22b27b38967197c418bb97dac199eed1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259109
+  packageName: 3D Chess and Checkers Set
+  packageVersion: 1.0
+  assetPath: Assets/3D Chess and Checkers Set/Prefabs/chess/wood/queen_wood_dark.prefab
+  uploadId: 611842

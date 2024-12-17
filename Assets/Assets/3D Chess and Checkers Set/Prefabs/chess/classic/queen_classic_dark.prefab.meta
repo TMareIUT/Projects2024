@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dd4b3f57d9b71b94b96692cc879ababf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259109
+  packageName: 3D Chess and Checkers Set
+  packageVersion: 1.0
+  assetPath: Assets/3D Chess and Checkers Set/Prefabs/chess/classic/queen_classic_dark.prefab
+  uploadId: 611842
