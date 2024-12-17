@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f6781ab8328fc78469291f48551e2ad2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259109
+  packageName: 3D Chess and Checkers Set
+  packageVersion: 1.0
+  assetPath: Assets/3D Chess and Checkers Set/Prefabs/chess/wood/bishop_wood_dark.prefab
+  uploadId: 611842

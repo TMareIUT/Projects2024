@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 89f8cd9894fc02c45b773fc7c520198f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259109
+  packageName: 3D Chess and Checkers Set
+  packageVersion: 1.0
+  assetPath: Assets/3D Chess and Checkers Set/Prefabs/chess/classic/rock_classic_dark.prefab
+  uploadId: 611842

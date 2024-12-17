@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3ac1945f228456b4b87cf7b3978421ba
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259109
+  packageName: 3D Chess and Checkers Set
+  packageVersion: 1.0
+  assetPath: Assets/3D Chess and Checkers Set/Prefabs/chess/wood/knight_wood_white.prefab
+  uploadId: 611842

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ae76287c7f8dc264fae4929bd87bcbb1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259109
+  packageName: 3D Chess and Checkers Set
+  packageVersion: 1.0
+  assetPath: Assets/3D Chess and Checkers Set/Prefabs/chess/classic/king_classic_dark.prefab
+  uploadId: 611842

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a7b7756edc1c7b145b74f119787b1de2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259109
+  packageName: 3D Chess and Checkers Set
+  packageVersion: 1.0
+  assetPath: Assets/3D Chess and Checkers Set/Prefabs/chess/wood/pawn_wood_white.prefab
+  uploadId: 611842

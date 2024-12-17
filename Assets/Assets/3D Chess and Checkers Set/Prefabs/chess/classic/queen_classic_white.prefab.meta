@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1f7f17b857473e549a4bb688af3d25f9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259109
+  packageName: 3D Chess and Checkers Set
+  packageVersion: 1.0
+  assetPath: Assets/3D Chess and Checkers Set/Prefabs/chess/classic/queen_classic_white.prefab
+  uploadId: 611842
