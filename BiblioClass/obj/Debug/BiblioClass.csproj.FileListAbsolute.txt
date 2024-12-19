@@ -1,0 +1,30 @@
+C:\Users\soari\Videos\ProjetDev2024\BiblioClass\bin\Debug\BiblioClass.dll
+C:\Users\soari\Videos\ProjetDev2024\BiblioClass\bin\Debug\BiblioClass.pdb
+C:\Users\soari\Videos\ProjetDev2024\BiblioClass\obj\Debug\BiblioClass.csproj.AssemblyReference.cache
+C:\Users\soari\Videos\ProjetDev2024\BiblioClass\obj\Debug\BiblioClass.csproj.CoreCompileInputs.cache
+C:\Users\soari\Videos\ProjetDev2024\BiblioClass\obj\Debug\BiblioClass.dll
+C:\Users\soari\Videos\ProjetDev2024\BiblioClass\obj\Debug\BiblioClass.pdb
+C:\Users\soari\Documents\ProjetDev2024\BiblioClass\bin\Debug\BiblioClass.dll
+C:\Users\soari\Documents\ProjetDev2024\BiblioClass\bin\Debug\BiblioClass.pdb
+C:\Users\soari\Documents\ProjetDev2024\BiblioClass\obj\Debug\BiblioClass.csproj.AssemblyReference.cache
+C:\Users\soari\Documents\ProjetDev2024\BiblioClass\obj\Debug\BiblioClass.csproj.CoreCompileInputs.cache
+C:\Users\soari\Documents\ProjetDev2024\BiblioClass\obj\Debug\BiblioClass.dll
+C:\Users\soari\Documents\ProjetDev2024\BiblioClass\obj\Debug\BiblioClass.pdb
+C:\Users\lorks\Desktop\BUT3\R5.08\ProjetPuissance4\BiblioClass\bin\Debug\BiblioClass.dll
+C:\Users\lorks\Desktop\BUT3\R5.08\ProjetPuissance4\BiblioClass\bin\Debug\BiblioClass.pdb
+C:\Users\lorks\Desktop\BUT3\R5.08\ProjetPuissance4\BiblioClass\obj\Debug\BiblioClass.csproj.AssemblyReference.cache
+C:\Users\lorks\Desktop\BUT3\R5.08\ProjetPuissance4\BiblioClass\obj\Debug\BiblioClass.csproj.CoreCompileInputs.cache
+C:\Users\lorks\Desktop\BUT3\R5.08\ProjetPuissance4\BiblioClass\obj\Debug\BiblioClass.dll
+C:\Users\lorks\Desktop\BUT3\R5.08\ProjetPuissance4\BiblioClass\obj\Debug\BiblioClass.pdb
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\BiblioClass\bin\Debug\BiblioClass.dll
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\BiblioClass\bin\Debug\BiblioClass.pdb
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\BiblioClass\obj\Debug\BiblioClass.csproj.AssemblyReference.cache
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\BiblioClass\obj\Debug\BiblioClass.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\BiblioClass\obj\Debug\BiblioClass.dll
+C:\Users\mariu\OneDrive\Documents\Nouveau dossier\BiblioClass\obj\Debug\BiblioClass.pdb
+C:\Users\soari\Documents\GitHub\ProjetDev2024\BiblioClass\bin\Debug\BiblioClass.dll
+C:\Users\soari\Documents\GitHub\ProjetDev2024\BiblioClass\bin\Debug\BiblioClass.pdb
+C:\Users\soari\Documents\GitHub\ProjetDev2024\BiblioClass\obj\Debug\BiblioClass.csproj.AssemblyReference.cache
+C:\Users\soari\Documents\GitHub\ProjetDev2024\BiblioClass\obj\Debug\BiblioClass.csproj.CoreCompileInputs.cache
+C:\Users\soari\Documents\GitHub\ProjetDev2024\BiblioClass\obj\Debug\BiblioClass.dll
+C:\Users\soari\Documents\GitHub\ProjetDev2024\BiblioClass\obj\Debug\BiblioClass.pdb
