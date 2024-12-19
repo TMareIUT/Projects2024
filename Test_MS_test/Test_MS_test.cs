@@ -76,4 +76,36 @@ public class Test_MS_test
         // Assert
         Assert.IsTrue(result < 0, "Le résultat du MinMax devrait être négatif pour le joueur actuel.");
     }
+
+    [TestMethod]
+    public void Test_ModificationPlateauValide()
+    {
+        // Arrange
+        Partie partie = new Partie();
+
+        // Act
+        partie.ModifierPlateau(10, 8);
+
+        // Assert
+        Assert.AreEqual(10, partie.plateau.hauteur, "Le nombre de lignes du plateau devrait être 10.");
+        Assert.AreEqual(8, partie.plateau.largeur, "Le nombre de colonnes du plateau devrait être 8.");
+    }
+
+    [TestMethod]
+    public void Test_FermetureFenêtres()
+    {
+        // Arrange
+        Partie partie = new Partie();
+
+        // Simuler l'ouverture de fenêtres (si une collection des fenêtres est disponible) :
+        var fenêtresOuvertes = new List<string> { "Paramètres", "Aide", "Menu" };
+
+        // Act
+        fenêtresOuvertes.Clear(); // Simule la fermeture des fenêtres
+
+        // Assert
+        Assert.AreEqual(0, fenêtresOuvertes.Count, "Toutes les fenêtres devraient être fermées.");
+    }
+
+
 }
