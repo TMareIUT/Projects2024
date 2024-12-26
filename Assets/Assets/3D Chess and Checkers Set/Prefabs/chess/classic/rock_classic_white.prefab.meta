@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2973cc931919a2f4eadcb09607a5f43e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259109
+  packageName: 3D Chess and Checkers Set
+  packageVersion: 1.0
+  assetPath: Assets/3D Chess and Checkers Set/Prefabs/chess/classic/rock_classic_white.prefab
+  uploadId: 611842

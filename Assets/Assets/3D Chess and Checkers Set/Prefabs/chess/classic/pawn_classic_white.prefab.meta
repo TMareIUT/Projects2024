@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ace366b6fa0894b43abb05ff178c194b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259109
+  packageName: 3D Chess and Checkers Set
+  packageVersion: 1.0
+  assetPath: Assets/3D Chess and Checkers Set/Prefabs/chess/classic/pawn_classic_white.prefab
+  uploadId: 611842
