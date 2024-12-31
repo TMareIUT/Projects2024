@@ -2,6 +2,6 @@ Ce projet a été fait avec nuxt.js, donc il ne peut y avoir d'exécutable.
 
 Lancer le projet simplement :
 
-- Se rendre dans le repertoire cloné.
+- Se rendre dans le répertoire cloné.
 - npm install
 - npm run dev
