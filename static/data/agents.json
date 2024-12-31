@@ -1,0 +1,703 @@
+[
+  {
+    "id": 1,
+    "name": "brimstone",
+    "role" : "controller",
+    "icon": "/_nuxt/static/imgs/agents/brimstone/brimstone.png",
+    "abilities": [
+        {
+            "id": 1,
+            "name": "stim-beacon",
+            "icon": "/_nuxt/static/imgs/agents/brimstone/stim-beacon.png"
+        },
+        {
+            "id": 2,
+            "name": "incendiary",
+            "icon": "/_nuxt/static/imgs/agents/brimstone/incendiary.png"
+        },
+        {
+            "id": 3,
+            "name": "sky-smoke",
+            "icon": "/_nuxt/static/imgs/agents/brimstone/sky-smoke.png"
+        },
+        {
+            "id": 4,
+            "name": "orbital-strike",
+            "icon": "/_nuxt/static/imgs/agents/brimstone/orbital-strike.png"
+        }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "phoenix",
+    "role" : "duelist",
+    "icon": "/_nuxt/static/imgs/agents/phoenix/phoenix.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "blaze",
+        "icon": "/_nuxt/static/imgs/agents/phoenix/blaze.png"
+      },
+      {
+        "id": 2,
+        "name": "curveball",
+        "icon": "/_nuxt/static/imgs/agents/phoenix/curveball.png"
+      },
+      {
+        "id": 3,
+        "name": "hot-hands",
+        "icon": "/_nuxt/static/imgs/agents/phoenix/hot-hands.png"
+      },
+      {
+        "id": 4,
+        "name": "run-it-back",
+        "icon": "/_nuxt/static/imgs/agents/phoenix/run-it-back.png"
+      }
+    ]
+  },
+  {
+    "id" : 3,
+    "name": "sage",
+    "role" : "sentinel",
+    "icon": "/_nuxt/static/imgs/agents/sage/sage.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "barrier-orb",
+        "icon": "/_nuxt/static/imgs/agents/sage/barrier-orb.png"
+      },
+      {
+        "id": 2,
+        "name": "slow-orb",
+        "icon": "/_nuxt/static/imgs/agents/sage/slow-orb.png"
+      },
+      {
+        "id": 3,
+        "name": "healing-orb",
+        "icon": "/_nuxt/static/imgs/agents/sage/healing-orb.png"
+      },
+      {
+        "id": 4,
+        "name": "resurrection",
+        "icon": "/_nuxt/static/imgs/agents/sage/resurrection.png"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "sova",
+    "role" : "initiator",
+    "icon": "/_nuxt/static/imgs/agents/sova/sova.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "owl-drone",
+        "icon": "/_nuxt/static/imgs/agents/sova/owl-drone.png"
+      },
+      {
+        "id": 2,
+        "name": "shock-bolt",
+        "icon": "/_nuxt/static/imgs/agents/sova/shock-bolt.png"
+      },
+      {
+        "id": 3,
+        "name": "recon-bolt",
+        "icon": "/_nuxt/static/imgs/agents/sova/recon-bolt.png"
+      },
+      {
+        "id": 4,
+        "name": "hunters-fury",
+        "icon": "/_nuxt/static/imgs/agents/sova/hunters-fury.png"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "viper",
+    "role" : "controller",
+    "icon": "/_nuxt/static/imgs/agents/viper/viper.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "snake-bite",
+        "icon": "/_nuxt/static/imgs/agents/viper/snake-bite.png"
+      },
+      {
+        "id": 2,
+        "name": "poison-cloud",
+        "icon": "/_nuxt/static/imgs/agents/viper/poison-cloud.png"
+      },
+      {
+        "id": 3,
+        "name": "toxic-screen",
+        "icon": "/_nuxt/static/imgs/agents/viper/toxic-screen.png"
+      },
+      {
+        "id": 4,
+        "name": "vipers-pit",
+        "icon": "/_nuxt/static/imgs/agents/viper/vipers-pit.png"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "cypher",
+    "role" : "sentinel",
+    "icon": "/_nuxt/static/imgs/agents/cypher/cypher.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "trapwire",
+        "icon": "/_nuxt/static/imgs/agents/cypher/trapwire.png"
+      },
+      {
+        "id": 2,
+        "name": "cyber-cage",
+        "icon": "/_nuxt/static/imgs/agents/cypher/cyber-cage.png"
+      },
+      {
+        "id": 3,
+        "name": "spycam",
+        "icon": "/_nuxt/static/imgs/agents/cypher/spycam.png"
+      },
+      {
+        "id": 4,
+        "name": "neural-theft",
+        "icon": "/_nuxt/static/imgs/agents/cypher/neural-theft.png"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "reyna",
+    "role" : "duelist",
+    "icon": "/_nuxt/static/imgs/agents/reyna/reyna.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "leer",
+        "icon": "/_nuxt/static/imgs/agents/reyna/leer.png"
+      },
+      {
+        "id": 2,
+        "name": "devour",
+        "icon": "/_nuxt/static/imgs/agents/reyna/devour.png"
+      },
+      {
+        "id": 3,
+        "name": "dismiss",
+        "icon": "/_nuxt/static/imgs/agents/reyna/dismiss.png"
+      },
+      {
+        "id": 4,
+        "name": "empress",
+        "icon": "/_nuxt/static/imgs/agents/reyna/empress.png"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "killjoy",
+    "role" : "sentinel",
+    "icon": "/_nuxt/static/imgs/agents/killjoy/killjoy.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "nanoswarm",
+        "icon": "/_nuxt/static/imgs/agents/killjoy/nanoswarm.png"
+      },
+      {
+        "id": 2,
+        "name": "alarmbot",
+        "icon": "/_nuxt/static/imgs/agents/killjoy/alarmbot.png"
+      },
+      {
+        "id": 3,
+        "name": "turret",
+        "icon": "/_nuxt/static/imgs/agents/killjoy/turret.png"
+      },
+      {
+        "id": 4,
+        "name": "lockdown",
+        "icon": "/_nuxt/static/imgs/agents/killjoy/lockdown.png"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "breach",
+    "role" : "initiator",
+    "icon": "/_nuxt/static/imgs/agents/breach/breach.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "aftershock",
+        "icon": "/_nuxt/static/imgs/agents/breach/aftershock.png"
+      },
+      {
+        "id": 2,
+        "name": "flashpoint",
+        "icon": "/_nuxt/static/imgs/agents/breach/flashpoint.png"
+      },
+      {
+        "id": 3,
+        "name": "fault-line",
+        "icon": "/_nuxt/static/imgs/agents/breach/fault-line.png"
+      },
+      {
+        "id": 4,
+        "name": "rolling-thunder",
+        "icon": "/_nuxt/static/imgs/agents/breach/rolling-thunder.png"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "omen",
+    "role" : "controller",
+    "icon": "/_nuxt/static/imgs/agents/omen/omen.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "shrouded-step",
+        "icon": "/_nuxt/static/imgs/agents/omen/shrouded-step.png"
+      },
+      {
+        "id": 2,
+        "name": "paranoia",
+        "icon": "/_nuxt/static/imgs/agents/omen/paranoia.png"
+      },
+      {
+        "id": 3,
+        "name": "dark-cover",
+        "icon": "/_nuxt/static/imgs/agents/omen/dark-cover.png"
+      },
+      {
+        "id": 4,
+        "name": "from-the-shadows",
+        "icon": "/_nuxt/static/imgs/agents/omen/from-the-shadows.png"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "jett",
+    "role" : "duelist",
+    "icon": "/_nuxt/static/imgs/agents/jett/jett.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "cloudburst",
+        "icon": "/_nuxt/static/imgs/agents/jett/cloudburst.png"
+      },
+      {
+        "id": 2,
+        "name": "updraft",
+        "icon": "/_nuxt/static/imgs/agents/jett/updraft.png"
+      },
+      {
+        "id": 3,
+        "name": "tailwind",
+        "icon": "/_nuxt/static/imgs/agents/jett/tailwind.png"
+      },
+      {
+        "id": 4,
+        "name": "blade-storm",
+        "icon": "/_nuxt/static/imgs/agents/jett/blade-storm.png"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "raze",
+    "role" : "duelist",
+    "icon": "/_nuxt/static/imgs/agents/raze/raze.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "boom-bot",
+        "icon": "/_nuxt/static/imgs/agents/raze/boom-bot.png"
+      },
+      {
+        "id": 2,
+        "name": "blast-pack",
+        "icon": "/_nuxt/static/imgs/agents/raze/blast-pack.png"
+      },
+      {
+        "id": 3,
+        "name": "paint-shells",
+        "icon": "/_nuxt/static/imgs/agents/raze/paint-shells.png"
+      },
+      {
+        "id": 4,
+        "name": "showstopper",
+        "icon": "/_nuxt/static/imgs/agents/raze/showstopper.png"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "skye",
+    "role" : "initiator",
+    "icon": "/_nuxt/static/imgs/agents/skye/skye.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "regrowth",
+        "icon": "/_nuxt/static/imgs/agents/skye/regrowth.png"
+      },
+      {
+        "id": 2,
+        "name": "trailblazer",
+        "icon": "/_nuxt/static/imgs/agents/skye/trailblazer.png"
+      },
+      {
+        "id": 3,
+        "name": "guiding-light",
+        "icon": "/_nuxt/static/imgs/agents/skye/guiding-light.png"
+      },
+      {
+        "id": 4,
+        "name": "seekers",
+        "icon": "/_nuxt/static/imgs/agents/skye/seekers.png"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "yoru",
+    "role" : "duelist",
+    "icon": "/_nuxt/static/imgs/agents/yoru/yoru.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "blindside",
+        "icon": "/_nuxt/static/imgs/agents/yoru/blindside.png"
+      },
+      {
+        "id": 2,
+        "name": "fakeout",
+        "icon": "/_nuxt/static/imgs/agents/yoru/fakeout.png"
+      },
+      {
+        "id": 3,
+        "name": "gatecrash",
+        "icon": "/_nuxt/static/imgs/agents/yoru/gatecrash.png"
+      },
+      {
+        "id": 4,
+        "name": "dimensional-drift",
+        "icon": "/_nuxt/static/imgs/agents/yoru/dimensional-drift.png"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "astra",
+    "role" : "controller",
+    "icon": "/_nuxt/static/imgs/agents/astra/astra.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "nova-pulse",
+        "icon": "/_nuxt/static/imgs/agents/astra/nova-pulse.png"
+      },
+      {
+        "id": 2,
+        "name": "gravity-well",
+        "icon": "/_nuxt/static/imgs/agents/astra/gravity-well.png"
+      },
+      {
+        "id": 3,
+        "name": "nebula",
+        "icon": "/_nuxt/static/imgs/agents/astra/nebula.png"
+      },
+      {
+        "id": 4,
+        "name": "cosmic-divide",
+        "icon": "/_nuxt/static/imgs/agents/astra/cosmic-divide.png"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "kay/o",
+    "role" : "initiator",
+    "icon": "/_nuxt/static/imgs/agents/kayo/kayo.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "flashdrive",
+        "icon": "/_nuxt/static/imgs/agents/kayo/flashdrive.png"
+      },
+      {
+        "id": 2,
+        "name": "fragment",
+        "icon": "/_nuxt/static/imgs/agents/kayo/fragment.png"
+      },
+      {
+        "id": 3,
+        "name": "zeropoint",
+        "icon": "/_nuxt/static/imgs/agents/kayo/zeropoint.png"
+      },
+      {
+        "id": 4,
+        "name": "nullcmd",
+        "icon": "/_nuxt/static/imgs/agents/kayo/nullcmd.png"
+      }
+
+    ]
+  },
+  {
+    "id": 17,
+    "name": "chamber",
+    "role" : "sentinel",
+    "icon": "/_nuxt/static/imgs/agents/chamber/chamber.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "headhunter",
+        "icon": "/_nuxt/static/imgs/agents/chamber/headhunter.png"
+      },
+      {
+        "id": 2,
+        "name": "trademark",
+        "icon": "/_nuxt/static/imgs/agents/chamber/trademark.png"
+      },
+      {
+        "id": 3,
+        "name": "rendezvous",
+        "icon": "/_nuxt/static/imgs/agents/chamber/rendezvous.png"
+      },
+      {
+        "id": 4,
+        "name": "tour-de-force",
+        "icon": "/_nuxt/static/imgs/agents/chamber/tour-de-force.png"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "neon",
+    "role" : "duelist",
+    "icon": "/_nuxt/static/imgs/agents/neon/neon.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "relay-bolt",
+        "icon": "/_nuxt/static/imgs/agents/neon/relay-bolt.png"
+      },
+      {
+        "id": 2,
+        "name": "fast-lane",
+        "icon": "/_nuxt/static/imgs/agents/neon/fast-lane.png"
+      },
+      {
+        "id": 3,
+        "name": "high-gear",
+        "icon": "/_nuxt/static/imgs/agents/neon/high-gear.png"
+      },
+      {
+        "id": 4,
+        "name": "overdrive",
+        "icon": "/_nuxt/static/imgs/agents/neon/overdrive.png"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "fade",
+    "role" : "initiator",
+    "icon": "/_nuxt/static/imgs/agents/fade/fade.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "seize",
+        "icon": "/_nuxt/static/imgs/agents/fade/seize.png"
+      },
+      {
+        "id": 2,
+        "name": "prowler",
+        "icon": "/_nuxt/static/imgs/agents/fade/prowler.png"
+      },
+      {
+        "id": 3,
+        "name": "haunt",
+        "icon": "/_nuxt/static/imgs/agents/fade/haunt.png"
+      },
+      {
+        "id": 4,
+        "name": "nightfall",
+        "icon": "/_nuxt/static/imgs/agents/fade/nightfall.png"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "harbor",
+    "role" : "controller",
+    "icon": "/_nuxt/static/imgs/agents/harbor/harbor.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "cove",
+        "icon": "/_nuxt/static/imgs/agents/harbor/cove.png"
+      },
+      {
+        "id": 2,
+        "name": "cascade",
+        "icon": "/_nuxt/static/imgs/agents/harbor/cascade.png"
+      },
+      {
+        "id": 3,
+        "name": "high-tide",
+        "icon": "/_nuxt/static/imgs/agents/harbor/high-tide.png"
+      },
+      {
+        "id": 4,
+        "name": "reckoning",
+        "icon": "/_nuxt/static/imgs/agents/harbor/reckoning.png"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "gekko",
+    "role" : "initiator",
+    "icon": "/_nuxt/static/imgs/agents/gekko/gekko.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "wingman",
+        "icon": "/_nuxt/static/imgs/agents/gekko/wingman.png"
+      },
+      {
+        "id": 2,
+        "name": "mosh-pit",
+        "icon": "/_nuxt/static/imgs/agents/gekko/mosh-pit.png"
+      },
+      {
+        "id": 3,
+        "name": "dizzy",
+        "icon": "/_nuxt/static/imgs/agents/gekko/dizzy.png"
+      },
+      {
+        "id": 4,
+        "name": "thrash",
+        "icon": "/_nuxt/static/imgs/agents/gekko/thrash.png"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "deadlock",
+    "role" : "sentinel",
+    "icon": "/_nuxt/static/imgs/agents/deadlock/deadlock.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "sonic-sensor",
+        "icon": "/_nuxt/static/imgs/agents/deadlock/sonic-sensor.png"
+      },
+      {
+        "id": 2,
+        "name": "gravnet",
+        "icon": "/_nuxt/static/imgs/agents/deadlock/gravnet.png"
+      },
+      {
+        "id": 3,
+        "name": "barrier-mesh",
+        "icon": "/_nuxt/static/imgs/agents/deadlock/barrier-mesh.png"
+      },
+      {
+        "id": 4,
+        "name": "annihilation",
+        "icon": "/_nuxt/static/imgs/agents/deadlock/annihilation.png"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "iso",
+    "role" : "duelist",
+    "icon": "/_nuxt/static/imgs/agents/iso/iso.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "undercut",
+        "icon": "/_nuxt/static/imgs/agents/iso/undercut.png"
+      },
+      {
+        "id": 2,
+        "name": "contingency",
+        "icon": "/_nuxt/static/imgs/agents/iso/contingency.png"
+      },
+      {
+        "id": 3,
+        "name": "double-tap",
+        "icon": "/_nuxt/static/imgs/agents/iso/double-tap.png"
+      },
+      {
+        "id": 4,
+        "name": "kill-contract",
+        "icon": "/_nuxt/static/imgs/agents/iso/kill-contract.png"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "clove",
+    "role" : "controller",
+    "icon": "/_nuxt/static/imgs/agents/clove/clove.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "meddle",
+        "icon": "/_nuxt/static/imgs/agents/clove/meddle.png"
+      },
+      {
+        "id": 2,
+        "name": "pick-me-up",
+        "icon": "/_nuxt/static/imgs/agents/clove/pick-me-up.png"
+      },
+      {
+        "id": 3,
+        "name": "ruse",
+        "icon": "/_nuxt/static/imgs/agents/clove/ruse.png"
+      },
+      {
+        "id": 4,
+        "name": "not-dead-yet",
+        "icon": "/_nuxt/static/imgs/agents/clove/not-dead-yet.png"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "vyse",
+    "role" : "sentinel",
+    "icon": "/_nuxt/static/imgs/agents/vyse/vyse.png",
+    "abilities": [
+      {
+        "id": 1,
+        "name": "shear",
+        "icon": "/_nuxt/static/imgs/agents/vyse/shear.png"
+      },
+      {
+        "id": 2,
+        "name": "razorvine",
+        "icon": "/_nuxt/static/imgs/agents/vyse/razorvine.png"
+      },
+      {
+        "id": 3,
+        "name": "arc-rose",
+        "icon": "/_nuxt/static/imgs/agents/vyse/arc-rose.png"
+      },
+      {
+        "id": 4,
+        "name": "steel-garden",
+        "icon": "/_nuxt/static/imgs/agents/vyse/steel-garden.png"
+      }
+    ]
+  }
+]
