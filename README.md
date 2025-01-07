@@ -6,6 +6,7 @@ Langage de programmation : python
 
 ## Arborescence du projet :
 
+```
 ALEXANDRE-BONNEMENT-DAVID-ROGER_PROJET/
 ├── main.py               # Point d'entrée du jeu
 ├── config/
@@ -29,7 +30,7 @@ ALEXANDRE-BONNEMENT-DAVID-ROGER_PROJET/
 │   ├── hud.py            # Interface utilisateur en jeu (score, vies restantes)
 │   └── gameOver.py      # Affichage de l'écran de fin de partie
 └── README.md             # Documentation pour le projet
-
+```
 
 ## Tâches à Réaliser :
 
